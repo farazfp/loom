@@ -1,0 +1,48 @@
+# On a Loom of Code and Color
+
+<center>Co-Transcreating Persian Poetry with AI</center>
+
+🗂️ [[Chat Logs/Chat Logs|Chat Logs]]
+🗂️ [[Observations/Observations|Observations]]
+🗂️ [[Poems/Poems|Poems]]
+🗂️ [[Session Summaries/Session Summaries|Session Summaries]]
+🗂️ [[Translations/Translations|Translations]]
+
+## About The Project 
+
+```ad-info
+title: Objective
+To explore the synergies between artificial intelligence and human expertise in the realm of poetry translation, through a 365-day journey through a broad range of Persian ghazals.
+```
+
+```ad-methodology
+title:Methodology
+collapse: closed
+Daily sessions with ChatGPT will be conducted to co-transcreate a carefully curated set of Persian ghazals, or other appropriately noteworthy instances of poems, such as quatrains. This iterative process will include feedback loops between the machine and the human translator, aiming to capture both the literal and emotional essence of the work of a wide range of classical to neoclassical Iranian poets, yielding translations that can stand on their own as poems.
+
+```
+
+```ad-important
+title: Significance
+collapse: closed
+
+This project serves as an experimental platform for understanding the potential and limitations of AI in creative endeavors. It aligns with the ETCL's focus on interdisciplinary research and digital humanities.
+```
+
+```ad-success
+title: Expected Outcomes
+collapse: true
+
+
+- A digital anthology of 365 co-transcreated poems.
+- A framework or set of best practices for AI-assisted poetry translation.
+- Community engagement through workshops and presentations to disseminate the findings.
+```
+
+```ad-time
+title: Timeline
+collapse: closed
+
+The project is planned for completion within a year, aligning with the daily co-transcreation goal.
+```
+
