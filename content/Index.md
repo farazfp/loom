@@ -2,12 +2,6 @@
 
 <center>Co-Transcreating Persian Poetry with AI</center>
 
-🗂️ [[Chat Logs/Chat Logs|Chat Logs]]
-🗂️ [[Observations/Observations|Observations]]
-🗂️ [[Poems/Poems|Poems]]
-🗂️ [[Session Summaries/Session Summaries|Session Summaries]]
-🗂️ [[Translations/Translations|Translations]]
-
 ## About The Project 
 
 ```ad-info
