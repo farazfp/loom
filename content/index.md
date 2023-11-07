@@ -23,7 +23,7 @@
 > The project is planned for completion within a year, aligning with the weekly co-transcreation goal.
 
 # Current work
-## 🗂️[[_Poets|poets]]
+## 🗂️[[_Poets|Poets]]
 
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Observations|Observations]]
