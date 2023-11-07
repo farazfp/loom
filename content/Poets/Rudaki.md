@@ -14,23 +14,25 @@ His life is emblematic of the poetic and cultural renaissance during the Samanid
 
 Rudaki's influence extended beyond mere literary acclaim; there is an oft-retold account that his poetic performance was so powerful that it is said to have persuaded Amir Nasr to end a prolonged sojourn in Badghis and return to Bukhara, a testament to his influence esteemed position at court with his most famous poem to contemporary Iranians:
 
-_mir māh ast o Boxārā asemān_
-_māh su-ye asemān āyad hami_
-_mir sarvast o Boḵārā bustān_                           
+_mir māh ast o Boxārā asemān_  
+_māh su-ye asemān āyad hami_  
+_mir sarvast o Boḵārā bustān_  
 _Sarv su-ye bustān āyad hami_
 
 
-The Moon’s the Prince, Bukhárá is the sky;
-O Sky, the Moon shall light thee by and by!
-Bukhárá is the mead, the Cypress he;
+The Moon’s the Prince, Bukhárá is the sky;  
+O Sky, the Moon shall light thee by and by!  
+Bukhárá is the mead, the Cypress he;  
 Receive at last, O Mead, thy Cypress-tree!
 
 <sub><font color="#7f7f7f">(Translation quoted from Browne, E in Encyclopaedia Iranica Online] </font></sub>
 
 but not before delivering this emotional hook: 
 
-_bu-ye ju-ye Muliān āyad hami_                      The fragrance of _Múliyán’s_ brook does come to mind,
-_yād-e yār-e mehrbān āyad hami_                   Of the loved friend reminding, who was left behind
+_bu-ye ju-ye Muliān āyad hami_  
+The fragrance of _Múliyán’s_ brook comes to mind,
+_yād-e yār-e mehrbān āyad hami_  
+Of the loved friend reminding, who was left behind  
 
 The prince, moved by Rudaki's verse, reportedly mounted his steed and galloped back to the city before the poet could finish.
 

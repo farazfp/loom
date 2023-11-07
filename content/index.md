@@ -3,7 +3,7 @@
 
 
 > [!info] Objective
-> To explore the synergies between artificial intelligence and human expertise in the realm of poetry translation, through a 365-day journey through a broad range of Persian ghazals.
+> An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](etcl.uvic.ca) To explore the creative synergies between artificial intelligence and human expertise. Focusing on the realm of poetry translation, and a year-long journey through a broad range of Persian ghazals.
 
 > [!methodology]- Methodology
 > 
