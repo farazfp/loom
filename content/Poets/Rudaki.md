@@ -1,15 +1,12 @@
 
 - Name: Abu 'Abdullah Jafar ibn Muhammad Rudaki
-- Birth: _c._ 859 CE, Rudak (near current-day [[https://www.google.com/maps/place/Balkh,+Afghanistan/@30.1672289,54.7924265,4.37z/data=!4m6!3m5!1s0x3f34eeaa00c6a8e7:0x7fc3ab84bd7a9fa8!8m2!3d36.7550603!4d66.8975372!16zL20vMDF4M3J2?entry=ttu|Balkh]],) Khorāsān 
+- Birth: _c._ 859 CE, Rudak (near current-day [Balkh](https://www.google.com/maps/place/Balkh,+Afghanistan/@30.1672289,54.7924265,4.37z/data=!4m6!3m5!1s0x3f34eeaa00c6a8e7:0x7fc3ab84bd7a9fa8!8m2!3d36.7550603!4d66.8975372!16zL20vMDF4M3J2?entry=ttu) ) Khorāsān 
 - Death: 941 CE, Panjrud
 
-# Poet's Biography
 ### Abu Abdullah Jafar ibn Muhammad Rudaki
 
-```avatar
-image: Poets/Rudaki.png
-description: 'Revered as the "Sultan of Poets" and widely acknowledged as the father of Persian poetry, Rudaki was the first to compose extensively in Modern Persian, effectively setting a precedent for future generations of poets. His melodious voice and proficiency with the chang (a stringed instrument) further accentuated his stature as a masterful bard. '
-```
+![[Rudaki.png]]
+Revered as the "Sultan of Poets" and widely acknowledged as the father of Persian poetry, Rudaki was the first to compose extensively in Modern Persian, effectively setting a precedent for future generations of poets. His melodious voice and proficiency with the chang (a stringed instrument) further accentuated his stature as a masterful bard. 
 
 Abu Abdullah Jafar ibn Muhammad, known as Rudaki, emerged in the midst of the third Islamic century, around the year 244 AH (858-859 CE), in the village of Banj, within the Rudak area of Samarkand.
 
