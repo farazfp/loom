@@ -12,12 +12,19 @@ Abu Abdullah Jafar ibn Muhammad, known as Rudaki, emerged in the midst of the th
 
 His life is emblematic of the poetic and cultural renaissance during the Samanid era; his work graced the courts, where he was held in high esteem by the Samanid sovereigns. Although later life saw him fall from royal favour, potentially due to political turmoil or court intrigues, the influence of his work remained undiminished. The breadth of his poetry encompassed qasidas (odes), ghazals, and even the narrative poetry of mathnawis, showcasing his versatility and prowess across poetic forms.
 
-Rudaki's influence extended beyond mere literary acclaim; his poetic performance was so powerful that it is said to have persuaded Amir Nasr to end a prolonged sojourn in Badghis and return to Bukhara, a testament to his influence esteemed position at court:
+Rudaki's influence extended beyond mere literary acclaim; there is an oft-retold account that his poetic performance was so powerful that it is said to have persuaded Amir Nasr to end a prolonged sojourn in Badghis and return to Bukhara, a testament to his influence esteemed position at court with his most famous poem to contemporary Iranians:
 
-_mir māh ast o Boxārā asemān_                       The Moon’s the Prince, Bukhárá is the sky;  
-_māh su-ye asemān āyad hami_                       O Sky, the Moon shall light thee by and by!   
-_mir sarvast o Boḵārā bustān_                         Bukhárá is the mead, the Cypress he;  
-_Sarv su-ye bustān āyad hami_                        Receive at last, O Mead, thy Cypress-tree!
+_mir māh ast o Boxārā asemān_
+_māh su-ye asemān āyad hami_
+_mir sarvast o Boḵārā bustān_                           
+_Sarv su-ye bustān āyad hami_
+
+
+The Moon’s the Prince, Bukhárá is the sky;
+O Sky, the Moon shall light thee by and by!
+Bukhárá is the mead, the Cypress he;
+Receive at last, O Mead, thy Cypress-tree!
+
 <sub><font color="#7f7f7f">(Translation quoted from Browne, E in Encyclopaedia Iranica Online] </font></sub>
 
 but not before delivering this emotional hook: 

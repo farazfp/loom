@@ -1,6 +1,6 @@
 # Translation Details
 - Translated on: [Date of Translation]
-- Related Poem: [Link to Original Poem]
+- Original Poem: [Link to Original Poem]
 
 # Translated Content
 [Your translation goes here...]

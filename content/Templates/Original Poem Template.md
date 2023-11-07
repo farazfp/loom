@@ -1,5 +1,6 @@
 # Original Poem Details
 - Title: {{title}}
+- Translation: [[]] 
 - Author: Author Name
 - Date (if known): Original Date
 
