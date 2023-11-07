@@ -22,9 +22,14 @@
 >  
 > The project is planned for completion within a year, aligning with the daily co-transcreation goal.
 
-## Current work
-[[Poems]]
+# Current work
+## 🗂️[[_Poets|poets]]
 
-[[Translations]]
+## 🗂️[[_Translations| Translations]]
+## 🗂️[[_Observations|Observations]]
 
-[[Chat Logs]]
+## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
+## [[_Chat Logs |🗂️Chat Logs]]
+
+
+⬇️ Please try the Graph View and the icon in its  top right. It is a zoomable visual map of the content and the connections between the project pages.

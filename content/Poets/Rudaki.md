@@ -12,7 +12,7 @@ Abu Abdullah Jafar ibn Muhammad, known as Rudaki, emerged in the midst of the th
 
 His life is emblematic of the poetic and cultural renaissance during the Samanid era; his work graced the courts, where he was held in high esteem by the Samanid sovereigns. Although later life saw him fall from royal favour, potentially due to political turmoil or court intrigues, the influence of his work remained undiminished. The breadth of his poetry encompassed qasidas (odes), ghazals, and even the narrative poetry of mathnawis, showcasing his versatility and prowess across poetic forms.
 
-Rudaki's influence extended beyond mere literary acclaim; his poetic performance was so powerful that it is said to have persuaded Amir Nasr to end a prolonged sojourn in Badghis and return to Bukhara, a testament to his esteemed position at court.  This event is encapsulated in a poignant verse that vividly contrasts the moon and the sky with the prince and Bukhara, symbolizing their inherent unity:
+Rudaki's influence extended beyond mere literary acclaim; his poetic performance was so powerful that it is said to have persuaded Amir Nasr to end a prolonged sojourn in Badghis and return to Bukhara, a testament to his influence esteemed position at court:
 
 _mir māh ast o Boxārā asemān_                       The Moon’s the Prince, Bukhárá is the sky;  
 _māh su-ye asemān āyad hami_                       O Sky, the Moon shall light thee by and by!   
@@ -23,9 +23,9 @@ _Sarv su-ye bustān āyad hami_                        Receive at last, O Mead, 
 but not before delivering this emotional hook: 
 
 _bu-ye ju-ye Muliān āyad hami_                      The fragrance of _Múliyán’s_ brook does come to mind,
-_yād-e yār-e mehrbān āyad hami_                    Of the loved friend reminding who was left behind
+_yād-e yār-e mehrbān āyad hami_                   Of the loved friend reminding, who was left behind
 
-The prince, moved by Rudaki's verse, reportedly hastened back to his city before the poet could finish.
+The prince, moved by Rudaki's verse, reportedly mounted his steed and galloped back to the city before the poet could finish.
 
 The exact circumstances around Rudaki's blindness are clouded in historical ambiguity. Some narratives suggest he was born blind, while others propose that his blindness was a consequence of later events. Nonetheless, the vivid imagery and rich descriptions within his verses argue against congenital blindness. This sensory detail infuses his work with life that resonates with colour and vibrancy, challenging the notion that he never witnessed the world's visual splendours.
 
@@ -38,8 +38,6 @@ In his twilight years, Rudaki retreated to his birthplace, where he ultimately p
 [1]: [Encyclopaedia Iranica Online](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/rudaki-COM_365278), "Rudaki," accessed November 6, 2023.
 [2]: [Persian Language Online](https://persianlanguageonline.com/persian-poetry/rudaki/), "Rudaki," accessed November 6, 2023.
 [3]: [Britannica](https://www.britannica.com/biography/Rudaki), "Rudaki," accessed November 6, 2023.
-
-
 
 
 # Associated Poems
