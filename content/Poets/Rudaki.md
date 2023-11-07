@@ -30,7 +30,7 @@ Receive at last, O Mead, thy Cypress-tree!
 but not before delivering this emotional hook: 
 
 _bu-ye ju-ye Muliān āyad hami_  
-The fragrance of _Múliyán’s_ brook comes to mind,
+The fragrance of _Múliyán’s_ brook comes to mind,  
 _yād-e yār-e mehrbān āyad hami_  
 Of the loved friend reminding, who was left behind  
 
