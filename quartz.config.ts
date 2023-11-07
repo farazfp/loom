@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "farazfp.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
