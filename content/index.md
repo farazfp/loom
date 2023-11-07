@@ -3,7 +3,7 @@
 
 
 > [!info] Objective
-> An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) To explore the creative synergies between artificial intelligence and human expertise. Focusing on the realm of poetry translation, and a year-long journey through a broad range of Persian ghazals.
+> An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
 
 > [!methodology]- Methodology
 > 
