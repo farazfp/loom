@@ -4,7 +4,7 @@
 
 ## About The Project 
 
-#### **Objective**
+C#### **Objective**
 To explore the synergies between artificial intelligence and human expertise in the realm of poetry translation, through a 365-day journey through a broad range of Persian ghazals.
 
 #### Methodology
