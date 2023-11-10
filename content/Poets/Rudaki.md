@@ -30,11 +30,11 @@ Receive at last, O Mead, thy Cypress-tree!
 but not before delivering this emotional hook: 
 
 _bu-ye ju-ye Muliān āyad hami_  
-The fragrance of _Múliyán’s_ brook comes to mind,  
+The fragrance of _Múliyán’s_ brook cometh to mind,  
 _yād-e yār-e mehrbān āyad hami_  
 Of the loved friend reminding, who was left behind  
 
-The prince, moved by Rudaki's verse, reportedly mounted his steed and galloped back to the city before the poet could finish.
+The prince, moved by Rudaki's verse, is said to have mounted his steed and galloped back to the city before the poet could finish, leaving the courtiers to rush after him on foot with his boots.
 
 The exact circumstances around Rudaki's blindness are clouded in historical ambiguity. Some narratives suggest he was born blind, while others propose that his blindness was a consequence of later events. Nonetheless, the vivid imagery and rich descriptions within his verses argue against congenital blindness. This sensory detail infuses his work with life that resonates with colour and vibrancy, challenging the notion that he never witnessed the world's visual splendours.
 
