@@ -34,19 +34,13 @@ The fragrance of _Múliyán’s_ brook cometh to mind,
 _yād-e yār-e mehrbān āyad hami_  
 Of the loved friend reminding, who was left behind  
 
-The prince, moved by Rudaki's verse, is said to have mounted his steed and galloped back to the city before the poet could finish, leaving the courtiers to rush after him on foot with his boots.
+The prince, moved by Rudaki's verse, is said to have mounted his steed and galloped back towards the city before the poet could finish, leaving the courtiers to rush after him on foot with his boots.
 
 The exact circumstances around Rudaki's blindness are clouded in historical ambiguity. Some narratives suggest he was born blind, while others propose that his blindness was a consequence of later events. Nonetheless, the vivid imagery and rich descriptions within his verses argue against congenital blindness. This sensory detail infuses his work with life that resonates with colour and vibrancy, challenging the notion that he never witnessed the world's visual splendours.
 
 Rudaki's oeuvre was colossal, with some accounts citing over a million verses, although only a fraction has survived the ravages of time. His poetry, often imbued with themes of nature, joy, and the passage of life, remains a testament to his enduring legacy. His style—simple yet profound, local yet universal—was distinctive for its clarity and lyrical quality, which has made it endearing to generations of readers and scholars alike. Rudaki’s influence extended beyond the literary, as he also contributed to the Persian renaissance by retranslating the fables of "Kalileh va Demneh," enriching Persian literature with his adaptations.
 
 In his twilight years, Rudaki retreated to his birthplace, where he ultimately passed away in 329 AH (941 CE). His end was marked by a return to simplicity, a stark contrast to his years of courtly grandeur. Yet, the melancholy of his later poems, such as his "Lament in Old Age," casts a poignant reflection on the transient nature of fortune and fame. The legacy of Rudaki endures as a cornerstone of Persian literary heritage, his verses a mirror to the soul of an era and a voice that continues to echo through the corridors of time.
-
-### References
-
-[1]: [Encyclopaedia Iranica Online](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/rudaki-COM_365278), "Rudaki," accessed November 6, 2023.
-[2]: [Persian Language Online](https://persianlanguageonline.com/persian-poetry/rudaki/), "Rudaki," accessed November 6, 2023.
-[3]: [Britannica](https://www.britannica.com/biography/Rudaki), "Rudaki," accessed November 6, 2023.
 
 
 # Associated Poems
@@ -56,4 +50,7 @@ In his twilight years, Rudaki retreated to his birthplace, where he ultimately p
 [List of notable works or contributions]
 
 # References
-[External resources, publications, or any other relevant materials related to the poet]
+[1]: [Encyclopaedia Iranica Online](https://referenceworks.brillonline.com/entries/encyclopaedia-iranica-online/rudaki-COM_365278), "Rudaki," accessed November 6, 2023.
+[2]: [Persian Language Online](https://persianlanguageonline.com/persian-poetry/rudaki/), "Rudaki," accessed November 6, 2023.
+[3]: [Britannica](https://www.britannica.com/biography/Rudaki), "Rudaki," accessed November 6, 2023.
+
