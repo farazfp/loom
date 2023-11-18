@@ -44,7 +44,7 @@ In his twilight years, Rudaki retreated to his birthplace, where he ultimately p
 
 
 # Associated Poems
-[Links to poems by this poet you've worked on or referenced]
+[[1. I Long to Touch your Tresses]]
 
 # Notable Works or Contributions
 [List of notable works or contributions]
