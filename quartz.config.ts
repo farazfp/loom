@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Markazi Text",
-        body: "Markazi Text",
-        code: "Markazi Text",
+        header: "EB Garamond",
+        body: "EB Garamond",
+        code: "EB Garamond",
       },
       colors: {
         lightMode: {
