@@ -1,5 +1,5 @@
 # H. E. Sāyeh (Amir Hushang Ebtehaj) 
-- Name: Poet's Full Name
+
 - Birth: February 26, 1928, [Rasht](https://maps.app.goo.gl/Rqeks2ZeTdHMz8rE9), Iran
 - Death: August 10, 2022, Cologne, Germany
 
@@ -14,7 +14,16 @@ The 1979 Iranian Revolution marked a turning point in Sayeh's life. Facing suppr
 
 Sayeh is celebrated for his mastery of traditional Persian poetic forms, especially the ghazal, used to articulate both sacred and secular themes of life. His poetry, characterized by emotional depth and directness, resonates with themes of social commitment and lyrical beauty. His works have been appreciated and performed by renowned Iranian singers like Mohammad Reza Shajarian and Alireza Eftekhari.
 
+Ebtehaj harbored a deep affection for music throughout his life. Reflecting on this, he once said, "One of my regrets, even at this late stage of my life, is that I wish, instead of poetry, something had happened and I had pursued music. Many might not believe it, but when I hear a solo instrument, the harmony,  and structure and counterpoint of thousands of tunes form in my mind."
+
+He further elaborated, "The essence in my mind flows most towards music. Something that is very important to me and is also a great art, is music. It's much purer than poetry. Poetry, to a degree, depends on our mutual understanding of words, but music does not need this understanding. If music speaks its own language, all nations and peoples can feel it. It doesn't need translation. It has a more direct connection with human emotions."
+
+This profound connection with music, alongside his poetic genius, underscores Ebtehaj's multifaceted artistic sensibility and his belief in the universal language of art.
+
 Sayeh's contribution to Persian poetry, marked by his unique blend of traditional form and modern sensibilities, remains influential in contemporary Iranian literature. His life and work, spanning Iran's major cultural and political upheavals, offer a window into the evolving landscape of Persian poetry in the 20th century.
+
+# Associated Poems
+[[2. Rejoice, rejoice! I have been chosen by the  friend - my love]]
 
 # Notable Works or Contributions
 [List of notable works or contributions]
