@@ -1,10 +1,41 @@
-# Original Poem Details
-- Translation: [[2. Rejoice, rejoice! I have been chosen by the  friend - my love]] 
-- Author: [[Sayeh]]
-- Date (if known): Original Date
+
+```start-multi-column
+ID: ID_2zqg
+Number of Columns: 2
+Largest Column: standard
+```
+Rejoice, rejoice! I have been chosen by my love
+I am her shadow now; to her sun she raised me above.
+
+I am the life of heart and eye, the very tears of mirth,
+The worthy, favoured, chosen one - My love affirmed my worth  
+  
+I am the Ka'bah and Qibla; in prayer turn to me,
+That guiding idol stooped and with a kiss she hallowed me.  
+  
+Her lovely visage lights my eyes, in joyous clarity,
+A mirror faced a mirror; I saw her and she saw me.  
+
+The mirror turns to radiant sun beside her face so fair,
+See how the mirror shines on me, if gazing you can bear.  
+  
+This gem, once lost, is now shining upon the heavens' crest,
+A kindly jeweler came and put my value to the test.  
+  
+As light in fountains leaps and on my face its kisses land,
+Solomon's envy, Jamshid's awe of me you'll understand.  
+  
+Each morn from her abode of grace, as I look down, I hear,
+'Praise be,' the moon and Venus sing, their voices ringing near  
+  
+Just like her dark hair, from her lovely face I shall not stray,
+May a hundred brilliant mornings break from this night, bringing day.  
+  
+Robeless, a radiant ray I am, a soul from body free,
+Till I'm my shadow once again, in sight I shall not be.
 
 
-# Poem Content
+--- column-end ---
 مژده بده، مژده بده، یار پسندید مرا  
 سایه ی او گشتم و او برد به خورشید مرا  
   
@@ -35,16 +66,7 @@
 پرتو بی پیرهنم، جان رها کرده تنم  
 تا نشوم سایه ی خود باز نبینید مرا
 
-# Context/Notes
-## Historical Context
-[Historical context of the poem]
 
-## Linguistic Notes
-[Linguistic notes]
 
-## Cultural References
-[Cultural references or significance]
+--- end-multi-column
 
-# References
-[External resources or publications related to the poem]
-Ayene dar Ayene
