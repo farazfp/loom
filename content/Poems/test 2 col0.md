@@ -29,3 +29,4 @@
 |                                                                                     |                                                                |
 | Robeless, a radiant ray I am, a soul from body free,                                | پرتو بی پیرهنم، جان رها کرده تنم                               |
 | Till I'm my shadow once again, in sight I shall not be.                             | تا نشوم سایه ی خود باز نبینید مرا                              |
+
