@@ -26,6 +26,9 @@
 ## 🗂️[[_Poets|Poets]]
 
 ## 🗂️[[_Translations| Translations]]
+
+## 🗂️[[_Side-by-side|English and Farsi Poems - Side by Side]]
+## 🗂️[[_Poems|Poems]]
 ## 🗂️[[_Observations|Observations]]
 
 ## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]

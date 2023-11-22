@@ -23,7 +23,7 @@ This profound connection with music, alongside his poetic genius, underscores Eb
 Sayeh's contribution to Persian poetry, marked by his unique blend of traditional form and modern sensibilities, remains influential in contemporary Iranian literature. His life and work, spanning Iran's major cultural and political upheavals, offer a window into the evolving landscape of Persian poetry in the 20th century.
 
 # Associated Poems
-[[2. Rejoice, rejoice! I have been chosen by the  friend - my love]]
+[[2. Rejoice, rejoice! I have been chosen by my love]]
 
 # Notable Works or Contributions
 [List of notable works or contributions]
