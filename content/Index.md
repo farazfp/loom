@@ -14,7 +14,7 @@
 > This project serves as an experimental platform for understanding the potential and limitations of AI in creative endeavors. It aligns with the ETCL's focus on interdisciplinary research and digital humanities.
 
 > [!todo]- Expected Outcomes
-> - A digital anthology of 365 co-transcreated poems.
+> - A digital anthology of co-transcreated poems.
 > - A framework or set of best practices for AI-assisted poetry translation.
 > - Community engagement through workshops and presentations to disseminate the findings.
 
@@ -27,7 +27,7 @@
 
 ## 🗂️[[_Translations| Translations]]
 
-## 🗂️ [[_Side-by-side|Side by Side with Farsi]]
+## 🗂️[[_Side-by-side|Side by Side with Farsi]]
 ## 🗂️[[_Observations|Observations]]
 
 ## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
