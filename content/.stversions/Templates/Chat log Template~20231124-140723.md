@@ -1,9 +1,16 @@
 ---
-date: "{{DATE}}"
+date: "{{date}}"
 draft: "false"
 tags:
 ---
-
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 ## Table of Contents
 - [Chat Log](#chat-log)
 - [Observations](#observations)

@@ -1,9 +1,3 @@
----
-date: "{{DATE}}"
-draft: "false"
-tags:
----
-
 # Translation Details
 - Translated on: [Date of Translation]
 - Original Poem: [Link to Original Poem]

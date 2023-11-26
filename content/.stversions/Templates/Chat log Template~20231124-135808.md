@@ -1,9 +1,15 @@
 ---
-date: "{{DATE}}"
-draft: "false"
-tags:
+date: Date of the Chat
+related_poem: Link to Original Poem
 ---
-
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 ## Table of Contents
 - [Chat Log](#chat-log)
 - [Observations](#observations)

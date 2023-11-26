@@ -1,5 +1,5 @@
-# H. E. Sāyeh (Amir Hushang Ebtehaj) 
-
+# H. E. Sāyeh 
+- Name: Amir Hushang Ebtehaj 
 - Birth: February 26, 1928, [Rasht](https://maps.app.goo.gl/Rqeks2ZeTdHMz8rE9), Iran
 - Death: August 10, 2022, Cologne, Germany
 

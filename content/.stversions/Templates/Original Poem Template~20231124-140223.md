@@ -1,14 +1,8 @@
----
-date: "{{DATE}}"
-draft: "false"
-tags:
----
-
 # Original Poem Details
-
+- Title: {{title}}
 - Translation: [[]] 
-- Poet: 
-
+- Author: Author Name
+- Date (if known): Original Date
 
 
 # Poem Content
