@@ -26,9 +26,11 @@
 ## 🗂️[[_Poets|Poets]]
 
 ## 🗂️[[_Translations| Translations]]
+
+## 🗂️ [[_Side-by-side|Side by Side with Farsi]]
 ## 🗂️[[_Observations|Observations]]
 
 ## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
 ## [[_Chat Logs |🗂️Chat Logs]]
 
-⬇️ Please try the Graph View and the icon in its  top right. It is a zoomable visual map of the content and the connections between the project pages.
+⬇️ Please try the Graph View and the icon at its top right. It is a zoomable visual map of the content and the connections between the project pages.
