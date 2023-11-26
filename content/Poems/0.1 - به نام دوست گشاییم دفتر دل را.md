@@ -1,5 +1,5 @@
 ---
-date: "{{DATE}}"
+date: 
 draft: "false"
 tags:
 ---
