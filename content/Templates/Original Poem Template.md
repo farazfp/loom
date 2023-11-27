@@ -4,7 +4,7 @@ draft: "false"
 tags:
 ---
 
-# Original Poem Details
+
 
 - Translation: [[]] 
 - Poet: 
