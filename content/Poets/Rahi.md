@@ -1,9 +1,3 @@
----
-date: 2023-11-25
-draft: "false"
-tags:
-  - Rahi
----
 
 - Name: Mohammad Hassan Moayeri
 - Date of Birth: May 1, 1909, Tehran, Iran
@@ -19,7 +13,7 @@ Despite his governmental roles, Mo’ayyeri’s  true passion lay in poetry and 
 
 Rahi Moayeri chose the pen name "Rahi" (meaning 'pathfinder' or 'guide') to signify his role as a guide in the realm of poetry and literature. This choice reflects his poetic vision and aspiration to guide readers through the artistic and emotional landscapes of his works. The name aligns with the tradition of Persian poets adopting pen names that often embody their poetic persona, philosophy, or style.
 
-Rahi primarily wrote ghazals and songs but also ventured into humorous, social, and patriotic poetry. He collaborated with Tehran Illustrated, Baba Shaml, and Tofigh, publishing critical poems under pseudonyms like "Zaghcheh (jackdaw),"  "Shahpariyun (king of fairies)," and "Haqgoo (truth-sayer)." He was also responsible for the poetry page in the national weekly Ettela'at newspaper.
+Rahi primarily wrote ghazals and songs but also ventured into humorous, social, and patriotic poetry. He collaborated with Tehran Illustrated, Baba Shaml, and Tofigh, publishing critical poems under pseudonyms like "Zaghcheh (jackdaw),"  "Shah-pariyun (king of fairies)," and "Haq-goo (truth-sayer)." He was also responsible for the poetry page in the national weekly Ettela'at newspaper.
 
 His love life, particularly his unrequited love for Maryam Firouz, a prominent figure in Iranian politics and society, profoundly influenced his poetry. This relationship, though not culminating in marriage, inspired many of his works. Moayeri never married, maintaining a lifelong bachelor status; but many of his poems are dedicated to "Maryam." He actively participated in literary circles, including the Hakim Nezami Literary Society headed by Vahid Dastgerdi, and associated with prominent contemporary poets and writers.
 
