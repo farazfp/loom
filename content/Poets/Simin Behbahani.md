@@ -1,4 +1,8 @@
-![[Pasted image 20231204203925.png]]
+- Name: Simin Behbahani
+- Birth: July 20, 1927, [Tehran](https://goo.gl/maps/JkK6y9Lk8XwEj6cA8), Iran
+- Death: August 19, 2014, [Tehran](https://goo.gl/maps/JkK6y9Lk8XwEj6cA8)
+
+![[Simin.png]]
 
 **Simin Behbahani (1927-2014)**, born Siminbar Khalili, was a luminary in the realm of contemporary Persian poetry. Her work, characterized by its innovative blend of traditional forms and modern themes, marked her as an icon of modern Persian literature and a beloved figure in Iran's intellectual and literary circles.
 

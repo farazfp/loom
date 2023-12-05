@@ -1,5 +1,5 @@
 # Translation Details
-- Translated on: [October 30, 2023
+- Translated on: October 30, 2023
 - Related Poem: [[0.1 - به نام دوست گشاییم دفتر دل را]]
 
 # Translated Content
