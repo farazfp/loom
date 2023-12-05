@@ -21,8 +21,8 @@
 > The project is planned for completion within a year, aligning with the weekly co-transcreation goal.
 
 > [!Credits]-
-> [The Electronic Textual Cultures Lab at UVic -](http://etcl.uvic.ca) Love, light and peace upon you all!
-> Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire
+> [The Electronic Textual Cultures Lab at UVic -](http://etcl.uvic.ca) Love, light and peace upon you all!  
+> Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire  
 > <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
 
 
