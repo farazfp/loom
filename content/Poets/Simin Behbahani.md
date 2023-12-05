@@ -26,7 +26,25 @@ Simin Behbahani's poetry continues to resonate with readers worldwide, her work 
 [[5. Heavy lies my heart, my friend, tears are in tow with me - En-Fa]]
 
 # Notable Works or Contributions
-[List of notable works or contributions]
+
+- **"Setar-e shekasteh" ("The Broken Setar")**: Behbahani's first verse collection published in 1951, marking the beginning of her illustrious career in poetry.  
+- **"Rastāḵiz" ("Resurrection")**: A pivotal collection published in 1973, noted for its innovative use of the ghazal form and exploration of contemporary themes.  
+- **Ghazals**: Behbahani was renowned for her modern reinterpretation of the ghazal, infusing this classical form with new thematic elements and narrative styles.  
+- **Political and Social Commentary**: Throughout her career, Behbahani used her poetry to comment critically on societal issues, particularly regarding women's rights, political conditions, and social justice in Iran.  
+- **Linguistic Innovations**: Behbahani is credited with expanding the traditional Persian verse forms, notably in her approach to the ghazal, and incorporating everyday language and individual expressions.  
 
 # References
-[External resources, publications, or any other relevant materials related to the poet]
+
+Absolutely, here's the requested information:
+
+# Notable Works or Contributions
+- **"Setar-e shekasteh" ("The Broken Sitar")**: Behbahani's first verse collection published in 1951, marking the beginning of her illustrious career in poetry.
+- **"Rastāḵiz" ("Resurrection")**: A pivotal collection published in 1973, noted for its innovative use of the ghazal form and exploration of contemporary themes.
+- **Ghazals**: Behbahani was renowned for her modern reinterpretation of the ghazal, infusing this classical form with new thematic elements and narrative styles.
+- **Political and Social Commentary**: Throughout her career, Behbahani used her poetry to comment critically on societal issues, particularly regarding women's rights, political conditions, and social justice in Iran.
+- **Linguistic Innovations**: Behbahani is credited with expanding the traditional Persian verse forms, notably in her approach to the ghazal, and incorporating everyday language and individual expressions.
+
+# References
+1. **Wikipedia**: A comprehensive resource providing detailed information on Simin Behbahani's life, literary career, and works. [Simin Behbahani - Wikipedia](https://en.wikipedia.org/wiki/Simin_Behbahani)
+2. **Encyclopaedia Iranica**: Offers in-depth analysis and context on Behbahani's poetic style, themes, and contributions to Persian literature. [BEHBAHANI, SIMIN ii. Poetry – Encyclopaedia Iranica](https://iranicaonline.org/articles/behbahani-simin-ii-poetry)
+3. **Britannica**: Provides a concise overview of her life, her role as a poet and activist, and her impact on Persian literature. [Simin Behbahani | Iranian Poet & Activist | Britannica](https://www.britannica.com/biography/Simin-Behbahani)
