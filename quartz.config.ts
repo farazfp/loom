@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 On a Loom of Code and Color - Quartz 4.0",
+    pageTitle: "🧵 On a Loom of Code and Color",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "farazfp.github.io",
     ignorePatterns: ["private", "Templates", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "EB Garamond",
