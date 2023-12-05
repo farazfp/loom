@@ -1,6 +1,4 @@
-## About The Project
-
-
+## On a Loom of Code and Colour
 
 > [!info] Objective
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
@@ -22,6 +20,12 @@
 >  
 > The project is planned for completion within a year, aligning with the weekly co-transcreation goal.
 
+> [!Credits]-
+> [The Electronic Textual Cultures Lab at UVic -](http://etcl.uvic.ca) Love, light and peace upon you all!
+> Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire
+> <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
+
+
 # Current work
 ## 🗂️[[_Poets|Poets]]
 
@@ -33,4 +37,4 @@
 ## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
 ## [[_Chat Logs |🗂️Chat Logs]]
 
-⬇️ Please try the Graph View and the icon at its top right. It is a zoomable visual map of the content and the connections between the project pages.
+⬇️ Please try the Graph View and the icon at its top right. It is a zoomable visual map of the content and the connections between the project pages. 

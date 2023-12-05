@@ -5,6 +5,7 @@
 - 🗂️ [[Observations/_Observations|_Observations]]
 - 🗂️ [[Poems/_Poems|_Poems]]
 - 🗂️ [[Poets/_Poets|_Poets]]
+- 🗂️ [[private/_private|_private]]
 - 🗂️ [[Session Summaries/_Session Summaries|_Session Summaries]]
 - 🗂️ [[Side-by-side/_Side-by-side|_Side-by-side]]
 - 🗂️ [[Templates/_Templates|_Templates]]
