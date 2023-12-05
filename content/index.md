@@ -1,6 +1,6 @@
 
-|  ![[Pasted image 20231205022412.png]] |<p align="right"> <h1 align="right">On a Loom of Code and Colour</h1>                  |
-|---------------------|------------------|
+|  ![[Pasted image 20231205022412.png]] |<h1 align="right">On a Loom of Code and Colour</h1>|
+|-------------------------|--------------------------------|
 
 > [!info] Objective  
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
