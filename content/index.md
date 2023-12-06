@@ -1,5 +1,5 @@
 
-|  ![[Pasted image 20231205022412.png]] |<h1 align="right">On a Loom of Code and Colour</h1>|
+|  ![[Woven Carpet Loom.png]] |<h1 align="right">On a Loom of Code and Colour</h1>|
 |-------------------------|--------------------------------|
 
 > [!info] Objective  
