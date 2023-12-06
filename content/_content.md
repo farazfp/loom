@@ -3,7 +3,6 @@
 - 🗂️ [[Chat Logs/_Chat Logs|_Chat Logs]]
 - 🗂️ [[Media/_Media|_Media]]
 - 🗂️ [[Observations/_Observations|_Observations]]
-- 🗂️ [[Poems/_Poems|_Poems]]
 - 🗂️ [[Poets/_Poets|_Poets]]
 - 🗂️ [[private/_private|_private]]
 - 🗂️ [[Session Summaries/_Session Summaries|_Session Summaries]]

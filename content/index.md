@@ -29,12 +29,9 @@
 
 # Current work
 ## 🗂️[[_Poets|Poets]]
-
 ## 🗂️[[_Translations| Translations]]
-
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]
 ## 🗂️[[_Observations|Observations]]
-
 ## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
 ## [[_Chat Logs |🗂️Chat Logs]]
 
