@@ -1,9 +1,3 @@
----
-date: 2023-12-09
-draft: "false"
-tags: 
-title: 6 - My dear I'll never let my heart and your love be apart
----
 
 ![[6 - My dear I'll never let my heart and your love be apart.png]]
 
