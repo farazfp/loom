@@ -1,6 +1,6 @@
 دل, pronounced “*del*”, is a metaphorical compass of human experience. Unlike its Western counterpart, which is primarily a symbol of affection, the Persian "دل" embodies a full spectrum of inner life, including love, intuition, and sometimes, an enigmatic wisdom that defies "عقل" (Aql) or rational thought.
 
-Lovers give their "del" freely, or it can be snatched away, leaving them in a state of longing, desire and emotional vulnerability; this symbolizes a profound and willing surrender to the forces of love. A beloved who "takes" the heart is often placed upon a pedestal, turning the "del" into a token of their powerful allure and the magnetic pull they exert on the lover's soul, as the expressions del-dār دلدار (one who has, or possesses the heart,) or sāheb-del صاحب دل (owner of the heart).
+Lovers give their "del" freely, or it can be snatched away, leaving them in a state of longing, desire and emotional vulnerability; this symbolizes a profound and willing surrender to the forces of love. A beloved who "takes" the heart is often placed upon a pedestal, turning the "del" into a token of their powerful allure and the magnetic pull they exert on the lover's soul, as in the expressions del-dār دلدار (one who has, or possesses the heart,) or sāheb-del صاحب دل (owner of the heart).
 
 "Del" in conversation is a vessel of intuition and consciousness, a center of inner dialogue, and a mirror reflecting one's feelings, deepest desires and fears.
 
