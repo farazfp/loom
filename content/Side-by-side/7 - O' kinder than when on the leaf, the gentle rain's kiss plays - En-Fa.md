@@ -1,5 +1,5 @@
 Translation:  [[7 - O' kinder than when on the leaf, the gentle rain's kiss plays]]
-Poet: Shafi’i Kadekani
+Poet: [[Shafi'i Kadekani]]
 
 | English Translation                         |  Original Persian                          |
 |--------------------------------------------------------------|-------------------------------------------|

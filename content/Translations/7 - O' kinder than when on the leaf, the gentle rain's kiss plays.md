@@ -1,7 +1,7 @@
 # Translation Details
 - Translated on: 2023-12-11    
 - Side by Side: [[7 - O' kinder than when on the leaf, the gentle rain's kiss plays - En-Fa]]  
-- Poet:  Shafi’i Kadekani  
+- Poet:  [[Shafi'i Kadekani]] 
 
 ![[7 - O' kinder than when on the leaf, the gentle rain's kiss plays,.png]]
 
