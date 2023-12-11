@@ -3,7 +3,7 @@
 - 📄 [[Translations/2. Rejoice, rejoice! I have been chosen by my love|2. Rejoice, rejoice! I have been chosen by my love]]
 - 📄 [[Translations/3. My heart is wearied by the cruel thorns and roses' scorn|3. My heart is wearied by the cruel thorns and roses' scorn]]
 - 📄 [[Translations/4. Do you believe divine grace in you does not dwell - It does|4. Do you believe divine grace in you does not dwell - It does]]
-- 📄 [[Translations/5. Heavy lies my heart my friend with tears that want to flow|5. Heavy lies my heart my friend with tears that want to flow]]
+- 📄 [[Translations/5. So heavy lies my heart my friend with tears I want to flow|5. So heavy lies my heart my friend with tears I want to flow]]
 - 📄 [[Translations/6 - My dear I'll never let my heart and your love be apart|6 - My dear I'll never let my heart and your love be apart]]
 - 📄 [[Translations/7 - O' kinder than when on the leaf, the gentle rain's kiss plays|7 - O' kinder than when on the leaf, the gentle rain's kiss plays]]
 - 📄 [[Translations/The Book of the Heart|The Book of the Heart]]

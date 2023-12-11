@@ -27,7 +27,7 @@ Behbahani's life was not without its challenges. In 2010, she faced governmental
 Simin Behbahani's poetry continues to resonate with readers worldwide, her work a testament to the enduring power of Persian literary culture to address universal human experiences. She remains a towering figure in Persian literature, her poetry a bridge between the traditional and the contemporary, the personal and the universal.
 
 # Associated Poems
-[[5. Heavy lies my heart my friend with tears that want to flow - En-Fa]]
+[[5. So heavy lies my heart my friend with tears I want to flow - En-Fa]]
 
 # Notable Works or Contributions
 

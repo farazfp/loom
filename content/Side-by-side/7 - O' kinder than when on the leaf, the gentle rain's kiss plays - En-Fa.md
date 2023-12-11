@@ -3,7 +3,7 @@ Poet: [[Shafi'i Kadekani]]
 
 | English Translation                         |  Original Persian                          |
 |--------------------------------------------------------------|-------------------------------------------|
-| O, sweeter than when on the leaf, the gentle rain's kiss plays, | ای مهربان تر از برگ در بوسه‌های باران    |
+| O sweeter than when on the leaf, the gentle rain's kiss plays, | ای مهربان تر از برگ در بوسه‌های باران    |
 | Awakening of stars under the brooklet's tender gaze            | بیداری ستاره در چشم جویباران             |
 | The mirror of your eye is where the dawn and ocean meet,      | آیینه ی نگاهت پیوند صبح و ساحل           |
 | Your rare smile is a dawn aglow, where bright stars are replete.| لبخند گاه گاهت صبح ستاره باران         |
