@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Cormorant",
-        body: "Cormorant",
-        code: "Cormorant",
+        header: "Della Respira",
+        body: "Della Respira",
+        code: "Della Respira",
       },
       colors: {
         lightMode: {
