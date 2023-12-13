@@ -1,4 +1,0 @@
-- En-Fa 
-
-Original: [[]]
-Translation: [[]]
