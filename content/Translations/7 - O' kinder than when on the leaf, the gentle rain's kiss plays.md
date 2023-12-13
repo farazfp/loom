@@ -15,8 +15,8 @@ Your rare smile is a dawn aglow, where bright stars are replete.
 Come back, for your absence raises my silent, maddened cries,  
 and from the rocks of mountainscapes their mournful echo flies.  
 
-O flowing brook, beneath this shelt'ring leafy shade remain,  
-For countless souls have let such chances slip away in vain.  
+O flowing streamlet, from close by this leafy shade don’t stray,  
+For there are many who have let such chances slip away.  
 
 You spoke of days when love had taken root, and I replied  
 Though time may march and ages turn, that love will still abide.  
