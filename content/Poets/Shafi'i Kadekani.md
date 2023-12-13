@@ -1,5 +1,6 @@
 - Name: Mohammad-Reza Shafiei Kadkani
 - Born: October 10, 1939, Neyshabur (Nishapur),  Razavi Khorasan, Iran
+-
  
 ![[Pasted image 20231212215912.png]]  
 Mohammad-Reza Shafiei Kadkani, born on October 10, 1939, is a prominent Iranian writer, poet, literary critic, editor, and translator. He currently serves as a professor of literature at Tehran University, where he is recognized for his contributions to literary criticism and modern Persian poetry .
