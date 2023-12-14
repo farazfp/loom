@@ -15,13 +15,13 @@ Your rare smile is a dawn aglow, where bright stars are replete.
 Come back, for your absence raises my silent, maddened cries,  
 and from the rocks of mountainscapes their mournful echo flies.  
 
-O flowing streamlet, from close by this leafy shade don’t stray,  
+O flowing streamlet, from close by this leafy shade do not stray,  
 For there are many who have let such chances slip away.  
 
 You spoke of days when love had taken root, and I replied  
-Though time may march and ages turn, that love will still abide.  
+Though days may march and ages turn, that love will still abide.  
 
-Estrangement is beyond what we can bear, dear one, don't shun,  
+Estrangement is beyond what we can bear, dear one, don't shun  
 This lover, burdened with regret, leading those come undone.  
 
 Before we came, a multitude have lived and left their trace,  

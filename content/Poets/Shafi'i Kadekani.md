@@ -2,7 +2,7 @@
 - Born: October 10, 1939, Neyshabur (Nishapur),  Razavi Khorasan, Iran
 -
  
-![[Pasted image 20231212215912.png]]  
+![[Shafi'i.png]]  
 Mohammad-Reza Shafiei Kadkani, born on October 10, 1939, is a prominent Iranian writer, poet, literary critic, editor, and translator. He currently serves as a professor of literature at Tehran University, where he is recognized for his contributions to literary criticism and modern Persian poetry .
 
 Kadkani's education was non-traditional; instead of formal schooling, he was educated in classical religious institutions, which he credits for his command of Persian and Arabic literature. His poetic talent was recognized early when a professor recommended he formally study literature after being impressed by Kadkani's knowledge, gleaned from his time spent in bookshops .
