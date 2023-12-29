@@ -1,5 +1,5 @@
 
-Translation: [[8 - May your beauty and grace forever abound]]
+Translation: [[8 - May your beauty and grace forever abound]]  
 Poet: [[Hafez]]
 
 | English Translation | Farsi Original |
@@ -7,10 +7,10 @@ Poet: [[Hafez]]
 | May your beauty and grace forever abound, | حسن تو همیشه در فزون باد |
 | May your face like tulips glow all year around. | رویت همه ساله لاله گون باد |
 | May thoughts of your love in our hearts always stay, | اندر سر ما خیال عشقت |
-| May it flourish and grow with every passing day | هر روز که باد در فزون باد |
-| May cypresses that in the meadow do grow, | هر سرو که در چمن درآید |
-| Out of respect for your stature, bow way down low | در خدمتِ قامتت نگون باد |
-| May eyes not swayed by your charm weep in woe, | چشمی که نه فتنه تو باشد |
+| May they flourish and grow with every passing day | هر روز که باد در فزون باد |
+| May cypresses - that in the meadow do grow, | هر سرو که در چمن درآید |
+| Out of respect for your stature, bow  down low | در خدمتِ قامتت نگون باد |
+| May eyes - not swayed by your charm - weep in woe, | چشمی که نه فتنه تو باشد |
 | Their tears stained with blood in their pearlescent flow | چون گوهر اشک غرق خون باد |
 | To fascinate souls and to captivate hearts, | چشم تو ز بهر دلربایی |
 | May your eyes excel in the magical arts. | در کردن سحر ذوفنون باد |
@@ -22,3 +22,5 @@ Poet: [[Hafez]]
 | From your union's circle stay ever apart. | از حلقهٔ وصلِ تو برون باد |
 | The soul of Hafez is on your lips defined, | لعلِ تو که هست جانِ حافظ |
 | May those rubies be far from the unrefined. | دور از لبِ مردمانِ دون باد |
+
+

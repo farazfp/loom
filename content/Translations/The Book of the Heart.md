@@ -3,8 +3,7 @@
 
 # Translated Content
 
-In the Friend's name we'll open the book of the [[Heart vs Del|Heart]],
-
+In the Friend's name we'll open the book of the [[Heart vs Del|Heart]],  
 Of love's glory to our circle we shall impart.
 
 

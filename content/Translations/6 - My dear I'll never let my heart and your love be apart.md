@@ -1,8 +1,9 @@
-# Translation Details
+
 - Translated on: 2023-12-10  
 - Side by Side: [[6 - My dear I'll never let my heart and your love be apart - En-Fa]]  
 - Poet: [[Sana’i Ghaznavi]]  
--
+
+
 ![[6 - My dear I'll never let my heart and your love be apart.png]]
 
 

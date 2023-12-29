@@ -1,4 +1,4 @@
-# Translation Details
+
 - Translated on: 2023-12-11    
 - Side by Side: [[7 - O' kinder than when on the leaf, the gentle rain's kiss plays - En-Fa]]  
 - Poet:  [[Shafi'i Kadekani]] 
@@ -15,10 +15,10 @@ Your rare smile is a dawn aglow, where bright stars are replete.
 Come back, for your absence raises my silent, maddened cries,  
 and from the rocks of mountainscapes their mournful echo flies.  
 
-O flowing streamlet, from close by this leafy shade do not stray,  
+O flowing stream, from close by this leafy shade do not stray,  
 For there are many who have let such chances slip away.  
 
-You spoke of days when love had taken root, and I replied  
+You spoke of days when love had taken root, and I replied:  
 Though days may march and ages turn, that love will still abide.  
 
 Estrangement is beyond what we can bear, dear one, don't shun  
