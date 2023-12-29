@@ -14,7 +14,7 @@ Poet: [[Simin Behbahani]]
 | Yet those near me, in truth, are so remote and far at best. | به من هر آنکه نزدیک  از او جدا  جدا  من |
 | No longing for a gaze afar, nor wine in jug to cheer,  | نه چشم دل به سویی نه باده در سبویی |
 | Only to moisten my throat, while recalling one so dear. | که تر کنم گلویی به یاد آشنا من |
-| What gain is there in being; what loss in ceasing to be? | ز بودنم چه افزود؟ نبودنم چه کاهد؟ |
+| What gain is there in being? What loss in ceasing to be? | ز بودنم چه افزود؟ نبودنم چه کاهد؟ |
 | Who can answer my query? Why does life's breath flow in me? | که گویدم به پاسخ که زنده ام چرا من؟ |
 | Stars veiled behind the clouds, in the sky they are lost to sight, | ستاره ها نهفتم در آسمان ابری |
 | So heavy lies my heart, my friend; I yearn for tears tonight. | دلم گرفته  ای دوست! هوای گریه با من |
