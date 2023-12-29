@@ -9,7 +9,7 @@ Poet: [[Hafez]]
 | May thoughts of your love in our hearts always stay, | اندر سر ما خیال عشقت |
 | May they flourish and grow with every passing day | هر روز که باد در فزون باد |
 | May cypresses - that in the meadow do grow, | هر سرو که در چمن درآید |
-| Out of respect for your stature, bow  down low | در خدمتِ قامتت نگون باد |
+| Out of respect for your stature, bow down low | در خدمتِ قامتت نگون باد |
 | May eyes - not swayed by your charm - weep in woe, | چشمی که نه فتنه تو باشد |
 | Their tears stained with blood in their pearlescent flow | چون گوهر اشک غرق خون باد |
 | To fascinate souls and to captivate hearts, | چشم تو ز بهر دلربایی |
