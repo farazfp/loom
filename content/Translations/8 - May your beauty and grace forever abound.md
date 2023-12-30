@@ -14,13 +14,13 @@
  May cypresses - that in the meadow do grow,    
  Out of respect for your stature, bow down low    
  
- May eyes - not swayed by your charm - weep in woe,    
- Their tears stained with blood in their pearlescent flow    
+ May the eye that’s not swayed by your charm weep in woe,    
+ Its tears stained with blood in their pearlescent flow    
  
  To fascinate souls and to captivate hearts,    
  May your eyes excel in the magical arts.    
  
- May every heart that with your longing is found    
+ May every heart that with your longing is found,    
  Be restless and yearning, and in turmoil bound    
  
  May all the world's charmers to you yield their place,     
