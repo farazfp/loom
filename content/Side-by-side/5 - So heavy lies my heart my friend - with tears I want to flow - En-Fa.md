@@ -21,4 +21,4 @@ Poet: [[Simin Behbahani]]
 
 
 
-<iframe title="Homayoun Shajarian - Havaye Geryeh - Nasime Vasl Concert ( همایون شجریان - هوای گریه  )" src="https://www.youtube.com/embed/0osXUorffVg?start=47&end=480&amp;feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+<iframe title="Homayoun Shajarian - Havaye Geryeh - Nasime Vasl Concert ( همایون شجریان - هوای گریه  )" src="https://www.youtube.com/embed/0osXUorffVg?start=40&end=480&amp;feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
