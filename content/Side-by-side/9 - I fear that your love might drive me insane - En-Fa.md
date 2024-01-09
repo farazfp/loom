@@ -19,4 +19,6 @@ Poet: [[Amir Khosrow Dehlavi]]
 | Like candles to idols, you bring your light, | چون شمع بتان گشتی پیش آی که تا خسرو |
 | Draw near; as a moth to you I'll take flight. | بر آتش روی تو پروانه کند ما را |
 
-<iframe title="ALIREZA GHORBANI | DAR ZOLFE TO AVIZAM / علیرضا قربانی | در زلف تو آویزم" src="https://www.youtube.com/embed/2mZ3RdnvE20?feature=oembed" height="150" width="200" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+
+<iframe title="Dar Zolf-e to Avizam" src="https://www.youtube.com/embed/2mZ3RdnvE20?amp;feature=oembed" height="50" width="75" style="aspect-ratio: 1 / 1; width: 50%; height: 50%;" allowfullscreen="" allow="fullscreen"></iframe>
