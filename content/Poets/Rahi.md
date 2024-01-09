@@ -24,7 +24,7 @@ Even today, his ghazals and lyrical poems retain such appeal that they are sung 
 Rahi Moayeri passed away on November 15, 1968, after a prolonged battle with stomach cancer. He was laid to rest in the Zahir-od-Dowleh cemetery in Tehran. His chosen epitaph, "When you see a lover, remember Rahi!" resonates with the essence of his life—a testament to love, poetry, and the enduring spirit of a passionate soul.
 
 # Associated Poems
-[[3. My heart is wearied by the cruel thorns and roses' scorn]]
+[[3 - My heart is wearied by the cruel thorns and roses' scorn]]
 
 # Notable Works or Contributions
 [List of notable works or contributions]

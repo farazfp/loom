@@ -1,8 +1,8 @@
 - Translated on: 2024-01-08   
-- Side by Side: [[9 - I fear that your love might drive me insane - En-Fa]]
+- Side by Side with Media: [[9 - I fear that your love might drive me insane - En-Fa]]  
 - Poet:  [[Amir Khosrow Dehlavi]]
 
-  
+![[9 - I fear that your love might drive me insane.png]]  
 
 I fear that your love might drive me insane,    
 In town, our tale of ill fame could remain.
