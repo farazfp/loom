@@ -3,7 +3,7 @@
 - Side-by-side with media: [[2 - Rejoice, rejoice! I have been chosen by my love - En-Fa]]
 - Poet: [[Sayeh]]
 
-![[2 - rejoice rejoice.png]]
+![[002 - rejoice rejoice.png]]
 
 
 Rejoice, rejoice! I have been chosen by my love  

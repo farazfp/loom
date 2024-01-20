@@ -4,7 +4,7 @@
 - Poet: [[Sana’i Ghaznavi]]  
 
 
-![[6 - My dear I'll never let my heart and your love be apart.png]]
+![[006 - My dear I'll never let my heart and your love be apart.png]]
 
 
 My dear, I'll never let my heart and your love be apart,  

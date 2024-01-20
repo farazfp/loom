@@ -3,7 +3,7 @@
 - Side-by-side: [[1 - I Long to Touch your Tresses - En-Fa]]
 - Poet: [[Rudaki]]  
 
-![[1 - I long to touch your tresses.png]]
+![[001 - I long to touch your tresses.png]]
 
 I long to touch your tresses—with #ambergris’ fragrance graced  
 On your delicate #jasmine bloom, my kisses will be traced  

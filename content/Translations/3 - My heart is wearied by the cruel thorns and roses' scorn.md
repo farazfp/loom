@@ -3,7 +3,7 @@
 - Side-by-side with media: [[3 - My heart is wearied by the cruel thorns and roses' scorn - En-Fa]]
 - Poet: [[Poets/Rahi|Rahi]]
 
-![[3 My heart is wearied.png]]
+![[003 My heart is wearied.png]]
 
 My heart is wearied by the cruel thorns and roses' scorn,  
 Much like a breeze, from this garden I've quietly withdrawn.  

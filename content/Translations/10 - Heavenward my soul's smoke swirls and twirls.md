@@ -3,7 +3,7 @@
 - Poet:  [[Rumi]]
 
 
-![[Pasted image 20240120015132.png]]]]  
+![[010 - Heavenward my soul's smoke swirls and twirls.png]]  
 
 In your unkindness heavenward my soul's smoke swirls and twirls  
 Cease this wrong, lest foes find joy as my suffering unfurls.

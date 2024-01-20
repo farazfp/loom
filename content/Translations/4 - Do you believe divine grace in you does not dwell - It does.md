@@ -3,7 +3,7 @@
 - Side by Side: [[4 - Do you believe divine grace in you does not dwell - it does - En-Fa]]  
 - Poet: [[Sana’i Ghaznavi]]
 
-![[4 - Think gems don't fall.png]]
+![[004 - Think gems don't fall.png]]
 
 Do you believe divine grace in you does not dwell? It does;  
 Over the world's beauties, your grace does not excel? It does.  

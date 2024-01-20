@@ -3,7 +3,7 @@
 - Side by Side: [[8 - May your beauty and grace forever abound - En-Fa]]
 - Poet:  [[Hafez]]  
 
-![[8 - May your beauty and grace forever abound.png]]
+![[008 - May your beauty and grace forever abound.png]]
  
  May your beauty and grace forever abound,    
  May your face like tulips glow all year around.    
