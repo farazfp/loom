@@ -6,7 +6,7 @@
 ![[010 - Heavenward my soul's smoke swirls and twirls.png]]  
 
 In your unkindness heavenward my soul's smoke swirls and twirls  
-Cease this wrong, lest foes find joy as my suffering unfurls.
+Drop this spite, and don't let rivals smile as my pain unfurls.  
 
 Don't make more smoke nor give more joy to the envious heart  
 Ah, how their glee would surge high, with my being torn apart.  
