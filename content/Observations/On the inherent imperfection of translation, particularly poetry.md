@@ -18,7 +18,7 @@ A living echo, lost and drawn, within his nightmare born:
 > 
 > "Metaphors torn, wit turned to ash, your touch a deadly blight,    
 > Upon those stars of lyric grace, you cast a veil of night!    
-> The rose you plucked, now in its place a withered stem remains,  
+> You plucked a rose and in its place a withered stem now stands,  
 > A hollow, brittle shell where beauty slipped out of your hands."
 > 
 > “Like tarnished gems, unseen, unheld, our verses lie in shade,   
