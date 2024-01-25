@@ -14,7 +14,7 @@ A living echo, lost and drawn, within his nightmare born:
 > Now shades arise, with fury bright, their forms from verses spun,    
 > His heart sinks down in endless fall, his nightmare just begun.    
 > Past poets cry, their anger strong, their voices raw and dire,      
-> "You hacked our craft, our poem wronged, rhymes set ablaze with fire!"    
+> "You hacked our craft, our poems wronged, rhymes set ablaze with fire!"    
 > 
 > "Metaphors torn, wit turned to ash, your touch a deadly blight,    
 > Upon those stars of lyric grace, you cast a veil of night!    
