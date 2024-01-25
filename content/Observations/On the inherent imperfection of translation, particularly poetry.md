@@ -6,30 +6,30 @@ Dick Davis, tongue of fire and rhyme, in Limbo's halls did tread.  
 He who gave voice to souls long gone, now feels their whispered scorn,    
 A living echo, lost and drawn, within his nightmare born:  
   
-> In Limbo's halls, where whispers twine, lost shades in sorrow roam,    
-> A poor translator, lost in time, finds no familiar home.    
-> He stumbles forth, a stranger cold, in realms of echoing grief,    
-> Where verse itself, in whispers told, brings solace and relief.  
+> In Limbo's mists, where shadows twine, lost souls in sorrow roam,    
+> A poor translator casts about, to find his way back home.    
+> He stumbles forth, on shifting grounds, where poems morph and bleed,  
+> Lost in a labyrinth where words and meaning’s forms recede.
 >   
-> But shades arise, with fury bright, their forms from verses spun,    
+> Now shades arise, with fury bright, their forms from verses spun,    
 > His heart sinks down in endless fall, his nightmare just begun.    
 > Past poets cry, their anger strong, their voices raw and dire,      
 > "You hacked our craft, our poem wronged, rhymes set ablaze with fire!"    
 > 
 > "Metaphors torn, wit turned to ash, your touch a deadly blight,    
 > Upon those stars of lyric grace, you cast a veil of night!    
-> The rose you plucked, its fragrance gone, a withered stem remains,  
-> A hollow, wasted, brittle husk, where beauty once held sway."
+> The rose you plucked, its fragrance held, a withered stem remains,  
+> A hollow, brittle shell where beauty slipped out of your hands.."
 > 
-> “Like tarnished gems, unseen, unheld, our verses lie in shade, 
-> While polished rhymes, in silver sealed, your fickle taste displayed.”
+> “Like tarnished gems, unseen, unheld, our verses lie in shade,   
+> While polished rhymes, in silver sealed, your fickle taste displayed.”  
 > Some whisper soft, their sorrow deep, for verses turned to stone,  
 > While others rage, their fury steep, for works he deemed unknown.
 > 
 > He seeks to flee, in shame to hide, phantoms his steps restrain,  
 > His every sin, each error cried, their chorus rings with pain.    
 > For mercy's touch, in vain he calls, for swift or harsh decree,    
-> But endless torment binds him fast, his cursed eternity.    
+> But endless torment binds him in this cursed eternity.    
   
 So heed this tale, translators bold, who dare to bridge the tongue,    
 A poem's spirit, fierce and old, on fragile flesh is strung.    
