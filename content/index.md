@@ -27,7 +27,7 @@
 > - Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire  
 >- <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
 
-
+[[On the inherent imperfection of translation, particularly poetry]] : A poetic caveat emptor, after Dick Davis.
 # Current work
 ## 🗂️[[_Poets|Poets]]
 ## 🗂️[[_Translations| Translations]]
