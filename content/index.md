@@ -29,7 +29,7 @@
 
 
 
-## 👁️[[On the Curse of Translation, Particularly That of Poetry|On the Curse of Translation, Particularly That of Poetry:  A meta-poetic caveat emptor, after Dick Davis.]]   
+## 👁️[[On the Curse of Translation, Particularly That of Poetry|<font color="#245bdb">On the Curse of Translation, Particularly That of Poetry: </font> *A meta-poetic caveat emptor, after Dick Davis.*]]   
 
 
 # Current work
