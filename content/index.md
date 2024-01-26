@@ -28,8 +28,8 @@
 >- <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
 
 
-<font color="#245bdb"> 
-[[On the inherent imperfection of translation, particularly poetry]]</font>: A meta-poetic caveat emptor, after Dick Davis.  
+
+## 👁️[[On the Curse of Translation, Particularly That of Poetry|On the Curse of Translation, Particularly That of Poetry:  A meta-poetic caveat emptor, after Dick Davis.]]   
 
 
 # Current work
