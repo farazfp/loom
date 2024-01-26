@@ -1,6 +1,7 @@
 
-|  ![[Woven Carpet Loom.png]] |<h1 align="right">On a Loom of Code and Colour</h1>|
-|-------------------------|--------------------------------|
+| ![[Woven Carpet Loom.png]] | <h1 align="right">On a Loom of Code and Colour</h1> |
+| ---- | ---- |
+|  |  |
 
 > [!info] Objective  
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
@@ -27,12 +28,7 @@
 > - Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire  
 >- <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
 
-
-
-## 👁️[[On the Curse of Translation, Particularly That of Poetry|<font color="#245bdb">On the Curse of Translation, Particularly That of Poetry: </font> *A meta-poetic caveat emptor, after Dick Davis.*]]   
-
-
-# Current work
+## 👁️  [[On the Curse of Translation, Particularly That of Poetry|On the Curse of Translation, Particularly That of Poetry]] *: A meta-poetic caveat emptor, after Dick Davis.*   
 
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]
