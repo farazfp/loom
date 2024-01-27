@@ -30,12 +30,12 @@ His every sin, each error cried, their chorus rings with pain.  
 For mercy's touch, in vain he calls, for swift or harsh decree,    
 But endless torment binds him in this doomed eternity.   
 
-So heed this tale, translators bold, who dare to bridge the tongue,   
-A poem's spirit, fierce and old, on fragile flesh is strung.   
-Lest you become worst of the damned, and share in Limbo's whine;  
-Tread softly, weigh each word with care, each sigh, each whispered line.  
+So heed this tale, translators bold, who dare to bridge the tongue,  
+A poem's spirit, fierce and old, on fragile flesh is strung.  
+Lest you become worst of the damned, and share in Limbo's whine;
+Tread softly, weigh each word with care, each sigh, each whispered line. 
 
-Though shadows taunt and voices scorn, in echoes cold and stark,  
-Translators aim through veils of doubt to bring light to the dark.  
-"A Sisyphean quest," we're told, "too steep to dare surmount!"  
-With gritted teeth we shoulder words and climb the curséd mount.  
+Though shadows taunt and voices scorn, in echoes cold and stark,
+Translators aim through veils of doubt to bring light to the dark.
+"A Sisyphean quest," we're told, "too steep to dare surmount!"
+With gritted teeth we shoulder words and climb the curséd mount.
