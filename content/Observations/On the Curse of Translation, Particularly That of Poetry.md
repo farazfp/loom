@@ -1,9 +1,9 @@
 ![[Past Poets Cry.png]]
 
-	A translator's muse, out of time, by ghosts and shadows led,   
-	Dick Davis, tongue of fire and rhyme, in Limbo's halls did tread.   
-	He who gave voice to souls long gone, now feels their whispered scorn,   
-	A living echo, lost and drawn, within his nightmare born:
+A translator's muse, out of time, by ghosts and shadows led,   
+Dick Davis, tongue of fire and rhyme, in Limbo's halls did tread.   
+He who gave voice to souls long gone, now feels their whispered scorn,   
+A living echo, lost and drawn, within his nightmare born:
 
 In Limbo's mists, where shadows twine, lost souls in sorrow roam,    
 A poor translator casts about, to find his way back home.    
@@ -30,12 +30,12 @@ His every sin, each error cried, their chorus rings with pain.  
 For mercy's touch, in vain he calls, for swift or harsh decree,    
 But endless torment binds him in this doomed eternity.   
 
-	So heed this tale, translators bold, who dare to bridge the tongue,   
-	A poem's spirit, fierce and old, on fragile flesh is strung.   
-	Lest you become worst of the damned, and share in Limbo's whine;  
-	Tread softly, weigh each word with care, each sigh, each whispered line.  
-	
-	Though shadows taunt and voices scorn, in echoes cold and stark,  
-	Translators aim through veils of doubt to bring light to the dark.  
-	"A Sisyphean quest," we're told, "too steep to dare surmount!"  
-	With gritted teeth we shoulder words and climb the curséd mount.  
+So heed this tale, translators bold, who dare to bridge the tongue,   
+A poem's spirit, fierce and old, on fragile flesh is strung.   
+Lest you become worst of the damned, and share in Limbo's whine;  
+Tread softly, weigh each word with care, each sigh, each whispered line.  
+
+Though shadows taunt and voices scorn, in echoes cold and stark,  
+Translators aim through veils of doubt to bring light to the dark.  
+"A Sisyphean quest," we're told, "too steep to dare surmount!"  
+With gritted teeth we shoulder words and climb the curséd mount.  
