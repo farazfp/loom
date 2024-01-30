@@ -28,7 +28,7 @@
 > - Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire  
 >- <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
 
-## 👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry (Original)]] *: A meta-poetic caveat emptor, after Dick Davis.*   
+## 👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry ]] *: A meta-poetic caveat emptor, after Dick Davis.*   
 
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]

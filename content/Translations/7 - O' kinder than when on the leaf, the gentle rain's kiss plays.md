@@ -3,8 +3,8 @@
 - Side by Side: [[7 - O' kinder than when on the leaf, the gentle rain's kiss plays - En-Fa]]  
 - Poet:  [[Shafi'i Kadekani]] 
 
-![[007 - O' kinder than when on the leaf, the gentle rain's kiss plays,.png]]
 
+![[7 - O' kinder than when on the leaf, the gentle rain's kiss plays.png]]
 
 O' kinder than when on the leaf, the gentle rain's kiss plays,  
 Awakening of stars under the brooklet's tender gaze  

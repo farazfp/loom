@@ -4,7 +4,7 @@ Poet: [[Rumi]]
 | English Translation | Original Persian |
 |---------------------|------------------|
 | In your unkindness heavenward my soul's smoke swirls and twirls | ای شده از جفای تو جانب چرخ دود من |
-| Drop this spite! and don't let rivals smile as my pain unfurls. | جور مکن که بشنود شاد شود حسود من |
+| Drop this spite! and don't let rivals smile, as my pain unfurls. | جور مکن که بشنود شاد شود حسود من |
 | Don't make more smoke nor give more joy to the envious heart | بیش مکن تو دود را شاد مکن حسود را |
 | Ah, how their glee would surge high, with my being torn apart. | وه که چه شاد می شود از تلف وجود من |
 | Sweeten, not bitter my hope, O my pure sweet sugar white, | تلخ مکن امید من ای شکر سپید من |
