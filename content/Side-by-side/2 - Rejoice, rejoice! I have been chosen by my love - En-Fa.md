@@ -10,7 +10,7 @@ Poet: [[Sayeh]]
 | I am the life of heart and eye, the very tears of mirth,              | جانِ دل و دیده منم، گریه ی خندیده منم |
 | The worthy, favoured, chosen one - My love affirmed my worth          | یارِ پسندیده منم، یار پسندید مرا      |
 |                                                                       |                                       |
-| Direct your prayers to me, as I am the Ka'ba blessed,                 | کعبه منم، قبله منم، سوی من آرید نماز  |
+| Direct your prayers to me, as I am the Ka'ba, blessed;                | کعبه منم، قبله منم، سوی من آرید نماز  |
 | That guiding idol bent down and on me her kiss impressed.             | کان صنمِ قبله نما خم شد و بوسید مرا   |
 |                                                                       |                                       |
 | Her lovely visage lights my eyes, in joyous clarity,                  | پرتو دیدار خوشش تافته در دیده ی من    |
@@ -35,31 +35,3 @@ Poet: [[Sayeh]]
 | Till I'm my shadow once again, in sight I shall not be.               | تا نشوم سایه ی خود باز نبینید مرا     |
 
 <iframe title="Ayeneh Dar Ayeneh" src="https://www.youtube.com/embed/TVxwpdHEATY?start=85&amp;feature=oembed" height="50" width="75" style="aspect-ratio: 1 / 1; width: 50%; height: 50%;" allowfullscreen="" allow="fullscreen"></iframe>
-
-### Cultural/Poetic notes
-
-To enhance understanding and appreciation of this translated poem for English-speaking readers, adding cultural footnotes and explanations can be invaluable. Here are suggested footnotes for key references and concepts that might not be immediately familiar to all readers:
-
-1. **Ka’bah and Qibla**: 
-   - *Ka’bah*: A building at the center of Islam's most important mosque, the Masjid al-Haram in Mecca, Saudi Arabia. It is the most sacred site in Islam.
-   - *Qibla*: The direction that Muslims face when praying, which is towards the Ka’bah in Mecca.
-   - **Footnote**: The poet metaphorically elevates the beloved, comparing them to the Ka’bah and Qibla, central symbols of devotion in Islam, suggesting that the beloved has become the poet's spiritual and emotional focus.
-
-2. **Guiding idol stooped and with a kiss she hallowed me**:
-   - **Footnote**: "This line uses the imagery of a revered idol, symbolizing the beloved, who bestows a kiss— a gesture that sanctifies or makes holy. This metaphorically represents the transformative power of the beloved's love and approval."
-
-3. **Mirror Imagery**:
-   - **Footnote**: "Mirrors facing each other symbolize mutual recognition and reflection of the self in the other, a theme common in Persian poetry that explores the unity and deep connection between lovers."
-
-4. **Solomon’s envy, Jamshid’s awe**:
-   - *Solomon*: A prophet and king in Islamic, Jewish, and Christian traditions, known for his wisdom and the ability to communicate with animals and jinn.
-   - *Jamshid*: A mythical king in Persian literature, credited with many inventions and discoveries, often associated with a divinely endowed cup (Jam-e Jam) that reveals the universe's secrets.
-   - The reference to Solomon's envy and Jamshid's awe suggests that the poet's elevated state, achieved through love, would inspire jealousy in a wise king and awe in a legendary figure with access to divine knowledge, highlighting the transformative and exalted nature of love.
-
-5. **‘Praise be,’ the moon and Venus sing**:
-   - **Footnote**: "This line personifies the moon and Venus, celestial bodies often associated with beauty and love, as singing 'Praise be' (an expression of gratitude or admiration), suggesting that even the cosmos celebrates the poet's joy and transformation through love."
-
-6. **Robeless, I am a radiant ray — a soul from body free**:
-   - **Footnote**: "The imagery of being 'robeless' and a 'radiant ray' symbolizes liberation and purity of the soul, freed from the physical constraints of the body, reflecting Sufi themes of spiritual transcendence and unity with the divine."
-
-These footnotes aim to provide readers with the cultural, religious, and literary context needed to fully appreciate the depth and richness of the poem's imagery and themes. By elucidating these references, readers can better understand the poet's use of metaphor and symbolism to convey complex emotions and spiritual concepts.
