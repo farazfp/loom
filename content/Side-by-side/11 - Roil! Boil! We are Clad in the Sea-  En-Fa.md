@@ -7,7 +7,7 @@ Poet: [[Rumi]]
 | Love alone is our cause, and our only decree.           | بجز عشق به جز عشق دگر کار نداریم       |
 | In this sacred land, love’s the seed that we sow,       | در این خاک در این خاک در این مزرعه پاک |
 | For love alone is what we are meant to grow.            | بجز مهر به جز عشق دگر تخم نکاریم       |
-| IFrom that sovereign's grace, high and drunken we are,  | چه مستیم چه مستیم از آن شاه که هستیم   |
+| From that sovereign's grace, high and drunken we are,   | چه مستیم چه مستیم از آن شاه که هستیم   |
 | Come, come! Raise your hands, for our reign's not afar! | بیایید بیایید که تا دست برآریم         |
 | No clue, what strange brew did we drink yesternight?    | چه دانیم چه دانیم که ما دوش چه خوردیم  |
 | We're both drunk and hungover in the daylight.          | که امروز همه روز خمیریم و خماریم       |
