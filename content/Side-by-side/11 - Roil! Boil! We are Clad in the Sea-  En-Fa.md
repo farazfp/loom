@@ -5,12 +5,12 @@ Poet: [[Rumi]]
 | ------------------------------------------------------- | -------------------------------------- |
 | Roil! boil with love's tide - we are clad in the sea,   | بجوشید بجوشید که ما بحر شعاریم         |
 | Love alone is our cause, and our only decree.           | بجز عشق به جز عشق دگر کار نداریم       |
-| In this sacred land, love’s the seed that we sow,       | در این خاک در این خاک در این مزرعه پاک |
+| In this sacred land, love’s the seed that we sow,  ‘    | در این خاک در این خاک در این مزرعه پاک |
 | For love alone is what we are meant to grow.            | بجز مهر به جز عشق دگر تخم نکاریم       |
 | From that sovereign's grace, high and drunken we are,   | چه مستیم چه مستیم از آن شاه که هستیم   |
 | Come, come! Raise your hands, for our reign's not afar! | بیایید بیایید که تا دست برآریم         |
 | No clue, what strange brew did we drink yesternight?    | چه دانیم چه دانیم که ما دوش چه خوردیم  |
-| We're both drunk and hungover in the daylight.          | که امروز همه روز خمیریم و خماریم       |
+| It has left us drunk and hungover in the daylight.      | که امروز همه روز خمیریم و خماریم       |
 | Ask not! Not to fathom our verity's state;              | مپرسید مپرسید ز احوال حقیقت            |
 | We venerate wine, not the cups that we sate.            | که ما باده پرستیم نه پیمانه شماریم     |
 | Can one who's not drunken with love's heady wine,       | شما مست نگشتید وزان باده نخوردید       |

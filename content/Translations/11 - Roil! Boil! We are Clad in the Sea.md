@@ -14,7 +14,7 @@ Translated on: 2024-01-20
  Come, come! Raise your hands, for our reign's not afar! 
  
  No clue, what strange brew did we drink yesternight?    
- We're both drunk and hungover in the daylight.          
+ It has left us drunk and hungover in the daylight.          
  
  Ask not! Not to fathom our verity's state;              
  We venerate wine, not the cups that we sate.            
