@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Gentium Book Plus",
-        body: "Gentium Book Plus",
+        body: "Esteban",
         code: "Esteban",
       },
       colors: {
