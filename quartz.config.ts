@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Esteban",
-        body: "Esteban",
+        header: "Gentium Book Plus",
+        body: "Gentium Book Plus",
         code: "Esteban",
       },
       colors: {
