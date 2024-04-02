@@ -11,12 +11,12 @@ const config: QuartzConfig = {
     },
     baseUrl: "farazfp.github.io",
     ignorePatterns: ["private", "Templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Crimson Text",
-        body: "Crimson Text",
-        code: "Crimson Text",
+        header: "Cormorant Garamond",
+        body: "Cormorant Garamond",
+        code: "Cormorant Garamond",
       },
       colors: {
         lightMode: {
