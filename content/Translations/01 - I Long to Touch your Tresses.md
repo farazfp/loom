@@ -1,6 +1,6 @@
 
 - Translated on: [2023-11-17]
-- Side-by-side: [[1 - I Long to Touch your Tresses - En-Fa]]
+- Side-by-side: [[01 - I Long to Touch your Tresses - En-Fa]]
 - Poet: [[Rudaki]]  
 
 ![[001 - I long to touch your tresses.png]]

@@ -1,6 +1,6 @@
 
 
-Translation: [[4 - Do you believe divine grace in you does not dwell - It does]]   
+Translation: [[04 - Do you believe divine grace in you does not dwell - It does]]   
 Poet: [[Sana’i Ghaznavi]] 
 
 | English Translation | Original Persian |

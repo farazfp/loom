@@ -1,6 +1,6 @@
 
 - Translated on: 2023-11-26  
-- Side-by-side with media: [[3 - My heart is wearied by the cruel thorns and roses' scorn - En-Fa]]
+- Side-by-side with media: [[03 - My heart is wearied by the cruel thorns and roses' scorn - En-Fa]]
 - Poet: [[Poets/Rahi|Rahi]]
 
 ![[003 My heart is wearied.png]]

@@ -1,5 +1,5 @@
 - Translated on: 2024-01-08   
-- Side by Side with Media: [[9 - I fear that your love might drive me insane - En-Fa]]  
+- Side by Side with Media: [[09 - I fear that your love might drive me insane - En-Fa]]  
 - Poet:  [[Amir Khosrow Dehlavi]]
 
 ![[009 - I fear that your love might drive me insane.png]]  

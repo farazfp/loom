@@ -1,5 +1,5 @@
 
-Translation:  [[6 - My dear I'll never let my heart and your love be apart]]  
+Translation:  [[06 - My dear I'll never let my heart and your love be apart]]  
 Poet: [[Sana’i Ghaznavi]]
 
 | English Translation | Original Persian |

@@ -1,6 +1,6 @@
 
 - Translated on: 2023-11-20
-- Side-by-side with media: [[2 - Rejoice, rejoice! I have been chosen by my love - En-Fa]]
+- Side-by-side with media: [[02 - Rejoice, rejoice! I have been chosen by my love - En-Fa]]
 - Poet: [[Sayeh]]
 
 ![[002 - rejoice rejoice.png]]

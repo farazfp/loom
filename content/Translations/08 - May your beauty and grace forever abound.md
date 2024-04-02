@@ -1,6 +1,6 @@
 
 - Translated on: 2023-12-27   
-- Side by Side: [[8 - May your beauty and grace forever abound - En-Fa]]
+- Side by Side: [[08 - May your beauty and grace forever abound - En-Fa]]
 - Poet:  [[Hafez]]  
 
 ![[008 - May your beauty and grace forever abound.png]]

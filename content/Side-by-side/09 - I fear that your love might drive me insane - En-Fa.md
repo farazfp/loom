@@ -1,5 +1,5 @@
 
-Translation: [[9 - I fear that your love might drive me insane]]  
+Translation: [[09 - I fear that your love might drive me insane]]  
 Poet: [[Amir Khosrow Dehlavi]]  
 
 | English Translation | Original Persian |

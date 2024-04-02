@@ -1,5 +1,5 @@
 
-Translation: [[3 - My heart is wearied by the cruel thorns and roses' scorn]]  
+Translation: [[03 - My heart is wearied by the cruel thorns and roses' scorn]]  
 Poet: [[Poets/Rahi|Rahi]]
 
 | English Translation                                      | Original Persian                                  |

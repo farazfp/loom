@@ -7,7 +7,7 @@ Translated on: 2024-01-20
  Roil! boil with love's tide - we are clad in the sea,    
  Love alone is our cause, and our only decree.           
  
- In this sacred land, love’s the seed that we sow,
+ In this sacred land, love’s the seed that we sow,   
  For love alone is what we are meant to grow.
  
  From that sovereign's grace, high and drunken we are,  

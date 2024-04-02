@@ -1,5 +1,5 @@
 Poet: [[Rudaki]]  
-Translation: [[1 - I Long to Touch your Tresses]]
+Translation: [[01 - I Long to Touch your Tresses]]
 
 | English Translation                               | Original Persian                                     |
 |---------------------------------------------------|------------------------------------------------|

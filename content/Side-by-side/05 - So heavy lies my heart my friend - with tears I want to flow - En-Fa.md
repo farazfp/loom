@@ -1,5 +1,5 @@
 
-Translation:  [[5 - So heavy lies my heart my friend with tears I want to flow]]
+Translation:  [[05 - So heavy lies my heart my friend with tears I want to flow]]
 Poet: [[Simin Behbahani]]
 
 | English Translation | Original Persian |

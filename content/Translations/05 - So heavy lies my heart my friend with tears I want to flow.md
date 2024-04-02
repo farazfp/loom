@@ -1,6 +1,6 @@
 
 - Translated on: [2023-12-04]  
-- Side-by-side with media: [[5 - So heavy lies my heart my friend - with tears I want to flow - En-Fa]]  
+- Side-by-side with media: [[05 - So heavy lies my heart my friend - with tears I want to flow - En-Fa]]  
 - Poet: [[Simin Behbahani]]    
 
 ![[005. Heavy lies my heart my friend with tears that want to flow.png]]

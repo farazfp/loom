@@ -1,6 +1,6 @@
 
 - Translated on: 2023-12-03  
-- Side by Side: [[4 - Do you believe divine grace in you does not dwell - it does - En-Fa]]  
+- Side by Side: [[04 - Do you believe divine grace in you does not dwell - it does - En-Fa]]  
 - Poet: [[Sana’i Ghaznavi]]
 
 ![[004 - Think gems don't fall.png]]

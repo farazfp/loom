@@ -1,5 +1,5 @@
 
-Translation: [[8 - May your beauty and grace forever abound]]  
+Translation: [[08 - May your beauty and grace forever abound]]  
 Poet: [[Hafez]]
 
 | English Translation | Farsi Original |

@@ -27,4 +27,4 @@ Kadkani's work often explores the connection between poetry and other art forms,
 - **The Poet of Mirrors**: Kadkani's book "The Poet of Mirrors" sheds new light on the Indian style, especially that of Bidel Dehlavi, compiling valuable essays alongside selected ghazals and quatrains from Bidel.
 # Associated Poems
 
-[[7 - O' kinder than when on the leaf, the gentle rain's kiss plays - En-Fa]]
+[[07 - O' kinder than when on the leaf, the gentle rain's kiss plays - En-Fa]]

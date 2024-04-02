@@ -1,5 +1,5 @@
 
-Translation:[[2 - Rejoice, rejoice! I have been chosen by my love]]  
+Translation:[[02 - Rejoice, rejoice! I have been chosen by my love]]  
 Poet: [[Sayeh]] 
 
 | English Translation                                                   | Original Persian                      |
