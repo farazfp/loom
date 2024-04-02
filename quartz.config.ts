@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Cormorant_Garamond",
-        body: "Cormorant_Garamond",
-        code: "Cormorant_Garamond",
+        header: "Garamond Eb",
+        body: "Garamond Eb",
+        code: "Garamond Eb",
       },
       colors: {
         lightMode: {
