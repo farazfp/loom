@@ -19,7 +19,7 @@ My heart is bound to no one,
 and no heart is bound to me,  
 Like driftwood,  
 I am drifting,  
-$\quad$  $\quad$ $\quad$ drifting,
+$\quad$  $\quad$ $\quad$ drifting,  
 $\quad$  $\quad$ $\quad$  $\quad$ drifting  
 $\quad$ $\quad$ $\quad$ $\quad$ $\quad$ $\quad$ on the sea.  
 
