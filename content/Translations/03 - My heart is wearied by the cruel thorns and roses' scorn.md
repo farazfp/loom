@@ -5,26 +5,42 @@
 
 ![[003 My heart is wearied.png]]
 
-My heart is wearied by the cruel thorns and roses' scorn,  
-Much like a breeze, from this garden I've quietly withdrawn.  
+My heart is wearied  
+By the cruel thorns and roses' scorn,  
+Much like a breeze,  
+From this garden I've quietly withdrawn.  
 
-The candle of our joy, by fate into inferno turned,  
-I paid for love with life but only sorrow have I earned.  
+The candle of our joy,  
+By fate into inferno turned,  
+I paid for love with life  
+But only sorrow have I earned.  
 
-Life's harvest is the fellowship that does companions bind,  
-Since from me you've departed, I have left the world behind.  
+Life's harvest is the fellowship  
+That does companions bind,  
+Since from me you've departed,  
+I have left the world behind.  
 
-When you were near, my heart had peace, its place, its firmest ground,  
-Your parting took that peace away, and left my heart unbound.  
+When you were near,  
+My heart had peace, 
+Its place, its firmest ground,  
+Your parting took that peace away,  
+and left my heart unbound.  
 
-When your love grants my heart's plea, by then I will be no more,  
-When you do heed my cry at last, I'll be with God for sure.  
+When your love grants my heart's plea,  
+By then I will be no more,  
+When you do heed my cry at last,  
+I'll be with God for sure.  
 
-When springtime wakes the tulips from my earthly bed to grow,  
-O' new bloom! Spare a thought for my heart, and its pain and woe.  
+When springtime wakes the tulips  
+From my earthly bed to grow,  
+O' new bloom! 
+Spare a thought for my heart,  
+And its pain and woe.  
 
-Either come on the path of faith, or be gone from my heart,  
-This life — burnt in your wait — I am now ready to depart.
+Either come on the path of faith,  
+Or be gone from my heart;  
+This life — burnt in your wait —  
+I am now ready to depart.
 
 
 # Translator's Notes

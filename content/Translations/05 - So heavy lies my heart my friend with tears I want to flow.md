@@ -5,14 +5,23 @@
 
 ![[005. Heavy lies my heart my friend with tears that want to flow.png]]
 
-So heavy lies my heart, my friend, with tears I want to flow,  
-If from this cage I break free, where is it that I would go?  
+So heavy lies my heart, my friend,  
+with tears I want to flow,  
+If I break free from this cage,  
+where is it that I would go?  
 
-Unseen are garden paths to me, their whereabouts unknown,  
-In life’s corners, my eyes opened to narrowness alone.  
+Unseen are garden paths to me,  
+their whereabouts unknown,  
+In life’s corners,  
+my eyes opened to narrowness alone.  
 
-My heart is bound to no one, and no heart is bound to me,  
-Like driftwood I am drifting, drifting, drifting on the sea.  
+My heart is bound to no one,  
+and no heart is bound to me,  
+Like driftwood  
+I am drifting,  
+		drifting,  
+			drifting  
+				on the sea.  
 
 Those distant from me hold a place as close as in my chest,  
 Yet those near me, in truth, are so remote and far at best.  
