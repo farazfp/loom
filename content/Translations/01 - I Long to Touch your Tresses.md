@@ -6,20 +6,20 @@
 ![[001 - I long to touch your tresses.png]]
 
 I long to touch your tresses—  
-    With #ambergris’ fragrance graced;  
+With #ambergris’ fragrance graced;  
 Upon your tender #jasmine bloom,  
-    My kisses will be traced.  
+My kisses will be traced.  
 
 Wherever it is that you walk,  
-    Your feet will bless the earth;  
+Your feet will bless the earth;  
 A thousand prostrations I’ll make  
-    In honour of its worth.
+In honour of its worth.
 
 A thousand kisses I shall place  
 Upon your letter's fold,  
 If on its seal  
-&nbsp;&nbsp;&nbsp;&nbsp; Your ring's imprint  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I joyfully behold.
+$\quad$ Your ring's imprint  
+$\quad$ $\quad$ I joyfully behold.
 
 The keenest blade of India  
 Could have my hand to take;  
