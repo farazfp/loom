@@ -5,20 +5,31 @@
 
 ![[001 - I long to touch your tresses.png]]
 
-I long to touch your tresses—with #ambergris’ fragrance graced  
-On your delicate #jasmine bloom, my kisses will be traced  
+I long to touch your tresses—  
+    With #ambergris’ fragrance graced;  
+Upon your tender #jasmine bloom,  
+    My kisses will be traced.  
 
-Wherever it is that you walk, your feet will bless the earth;  
-A thousand prostrations I’ll make in honour of its worth
+Wherever it is that you walk,  
+    Your feet will bless the earth;  
+A thousand prostrations I’ll make  
+    In honour of its worth.
 
-A thousand kisses shall I place upon your letter's fold,  
-If on its seal your ring's imprint I joyfully behold
+A thousand kisses I shall place  
+Upon your letter's fold,  
+If on its seal 
+    Your ring's imprint  
+        I joyfully behold.
 
-To the keenest blade of India, I'd give my hand to take,  
-If just to hold your garment's hem, this sacrifice I'd make   
+The keenest blade of India  
+    Could have my hand to take,  
+If just to hold your garment's hem,  
+    This sacrifice I'd make.   
 
-Though silence may befall me when they ask me to recite   
-In your praise on my zealous tongue, the words always alight  
+Though silence may befall me  
+    When they ask me to recite   
+In your praise on my zealous tongue,  
+    The words always alight!  
 
 
 
