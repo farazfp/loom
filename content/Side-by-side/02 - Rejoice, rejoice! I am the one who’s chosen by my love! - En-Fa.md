@@ -1,10 +1,10 @@
 
-Translation:[[02 - Rejoice, rejoice! I have been chosen by my love]]  
+Translation:[[02 - Rejoice, rejoice! I am the one who’s chosen by my love!]]  
 Poet: [[Sayeh]] 
 
 | English Translation                                                   | Original Persian                      |
 | --------------------------------------------------------------------- | ------------------------------------- |
-| Rejoice, rejoice! I have been chosen by my love                       | مژده بده، مژده بده، یار پسندید مرا    |
+| Rejoice, rejoice! I am the one who’s chosen by my love!               | مژده بده، مژده بده، یار پسندید مرا    |
 | I am her shadow now; to her sun she raised me above.                  | سایه ی او گشتم و او برد به خورشید مرا |
 | I am the life of heart and eye, the very tears of mirth,              | جانِ دل و دیده منم، گریه ی خندیده منم |
 | The worthy, favoured, chosen one - My love affirmed my worth          | یارِ پسندیده منم، یار پسندید مرا      |
@@ -14,7 +14,7 @@ Poet: [[Sayeh]]
 | A mirror faced a mirror: I saw her and she saw me.                    | آینه در آینه شد: دیدمش و دید مرا      |
 | The mirror turns to radiant sun beside her face so fair,              | آینه خورشید شود پیش رخ روشن او        |
 | See how the mirror shines on me, if gazing you can bear.              | تابِ نظر خواه و ببین کاینه تابید مرا  |
-| This gem, once lost, is now shining upon the heavens' crest,          | گوهرِ گم بوده نگر تافته بر فرق فلک    |
+| Once lost, this gem now brightly shines upon the heavens’ crest       | گوهرِ گم بوده نگر تافته بر فرق فلک    |
 | A kindly jeweler came and put my value to the test.                   | گوهریِ خوب نظر آمد و سنجید مرا        |
 | As light in fountains leaps and on my face its kisses land,           | نور چو فواره زند بوسه بر این باره زند |
 | Solomon's envy, Jamshid's awe of me you'll understand.                | رشکِ سلیمان نگر و غیرتِ جمشید مرا     |

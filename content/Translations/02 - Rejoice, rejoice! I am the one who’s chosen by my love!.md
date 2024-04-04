@@ -1,15 +1,15 @@
 
 - Translated on: 2023-11-20
-- Side-by-side with media: [[02 - Rejoice, rejoice! I have been chosen by my love - En-Fa]]
+- Side-by-side with media: [[02 - Rejoice, rejoice! I am the one who’s chosen by my love! - En-Fa]]
 - Poet: [[Sayeh]]
 
 ![[002 - rejoice rejoice.png]]
 
 
 Rejoice, rejoice!  
-I have been chosen by my love!  
-I am her shadow now;
-To her sun she raised me above.
+I am the one who’s chosen by my love!  
+I am her shadow now;  
+To her sun she raised me above.  
 
 I am the life of heart and eye,  
 the very tears of mirth,  
@@ -28,11 +28,11 @@ I saw her and she saw me.
   
 The mirror turns to radiant sun  
 beside her face so fair,  
-See how the mirror shines on me   
+See how the mirror shines on me    
 if gazing you can bear.  
   
 Once lost,   
-This gem is now shining  
+This gem now brightly shines  
 upon the heavens' crest,  
 A kindly jeweler came  
 and put my value to the test.  
