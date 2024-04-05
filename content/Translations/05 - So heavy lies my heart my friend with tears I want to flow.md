@@ -19,26 +19,30 @@ My heart is bound to no one,
 and no heart is bound to me,  
 Like driftwood,  
 I am drifting,  
-$\quad$  $\quad$ $\quad$ drifting,  
-$\quad$  $\quad$ $\quad$  $\quad$ drifting  
-$\quad$ $\quad$ $\quad$ $\quad$ $\quad$ $\quad$ on the sea.  
+$\quad$ $\quad$ $\quad$ drifting,  
+$\quad$ $\quad$ $\quad$ $\quad$ drifting  
+$\quad$ $\quad$ $\quad$ $\quad$ $\quad$  on the sea.  
 
 Those distant from me hold a place  
 as close as in my chest,  
 Yet those near me, 
-in truth,  
-are so remote and far at best.  
+$\quad$$\quad$ in truth  
+$\quad$ $\quad$$\quad$are so remote and far at best.  
 
 No longing for a gaze afar,  
 nor wine in jug to cheer,  
-Only to moisten my throat,  
-while recalling one so dear.  
+Only to moisten my throat  
+while recalling one who’s dear.  
 
-What gain is there in being; what loss in ceasing to be?  
-Who can answer my query? Why does life’s breath flow in me?  
+What gain is there in being;  
+What loss in ceasing to be?  
+Who can answer my query?  
+Why does life’s breath flow in me?  
 
-Stars veiled behind the clouds, in the sky they are lost to sight,  
-So heavy lies my heart, my friend; I yearn for tears tonight.
+Stars veiled behind the clouds,  
+]n the sky they are lost to sight,  
+So heavy lies my heart, my friend;  
+I yearn for tears tonight.
 
 
 # Translators’ Notes
