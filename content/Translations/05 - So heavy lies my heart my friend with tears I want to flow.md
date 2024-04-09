@@ -25,9 +25,9 @@ $\quad$ $\quad$ $\quad$ $\quad$ $\quad$  on the sea.
 
 Those distant from me hold a place  
 as close as in my chest,  
-Yet those near me, 
-$\quad$$\quad$ in truth  
-$\quad$ $\quad$$\quad$are so remote and far at best.  
+Yet those near me,  
+$\quad$  $\quad$  in truth  
+$\quad$  $\quad$ $\quad$ are so remote and far at best.  
 
 No longing for a gaze afar,  
 nor wine in jug to cheer,  
