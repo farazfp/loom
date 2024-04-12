@@ -5,7 +5,7 @@
 ![[009 - I fear that your love might drive me insane.png]]  
 
 I fear that your love may drive me insane,    
-In town,  our tale of ill fame could remain.  
+In town, our tale of ill fame could remain.  
 
 All faith and reason I have left for you,    
 Your grief may unbind me and my life too.    
@@ -22,5 +22,5 @@ That one stray hair that's brushed away from sight.  
 Last night I drank so that with thoughts of you,    
 Today, just one cup makes me drunken too.    
   
-Like candles to idols, you bring your light,    
-Draw near;  like a moth to you I'll take flight.
+Like candles to idols, bring forth your  light,    
+Draw near - and moth-like to you, I'll take flight.

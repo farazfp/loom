@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "farazfp.github.io",
     ignorePatterns: ["private", "Templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       typography: {
         header: "EB Garamond",

@@ -1,10 +1,18 @@
 
 | ![[Woven Carpet Loom.png]] | <h1 align="right">On a Loom of Code and Colour</h1> |
-| ---- | ---- |
-|  |  |
-
-> [!info] Objective  
+| -------------------------- | --------------------------------------------------- |
+> [!info] What is this?  
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
+
+## 👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry ]] *: A meta-poetic caveat emptor, after Dick Davis.*   
+
+## 🗂️[[_Translations| Translations]]
+## 🗂️[[_Side-by-side|Side by Side with Farsi]]
+## 🗂️[[_Poets|Poets]]  
+## 🗂️[[_Observations|Observations]]
+## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
+## [[_Chat Logs |🗂️Chat Logs]]
+
 
 > [!methodology]- Methodology
 > 
@@ -12,7 +20,7 @@
 
 > [!important]- Significance
 > 
-> This project serves as an experimental platform for understanding the potential and limitations of AI in creative endeavors. It aligns with the ETCL's focus on interdisciplinary research and digital humanities.
+> This project serves as an experimental platform for understanding the potential and limitations of Generative Language Models in creative endeavors - and how it affects our perceptions and discoveries of ourselves and the technology. It aligns with the ETCL's focus on interdisciplinary research and digital humanities.
 
 > [!todo]- Expected Outcomes
 > - A digital, open-access anthology of co-transcreated poems.
@@ -23,18 +31,11 @@
 >  
 > The project is planned for completion within a year, aligning with the weekly co-transcreation goal.
 
-> [!credits]- Credits
+> [!credits]- Gratitude
 > -  [The Electronic Textual Cultures Lab at UVic -](http://etcl.uvic.ca)  Love, light and peace upon you all! 
 > - Dick Davis - Inspiration, emeritus professor at Ohio University and transcreator extraordinaire  
+> - My father - for instilling the love and understanding of poetry in my heart
+> - My teachers - particularly Prof. Tajvidi and Prof. Farahzad - for the courage to use what they taught me.  
 >- <a href="https://www.flaticon.com/free-icons/weaving" title="weaving icons">Weaving icons created by Freepik - Flaticon</a>
-
-## 👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry ]] *: A meta-poetic caveat emptor, after Dick Davis.*   
-
-## 🗂️[[_Translations| Translations]]
-## 🗂️[[_Side-by-side|Side by Side with Farsi]]
-## 🗂️[[_Poets|Poets]]  
-## 🗂️[[_Observations|Observations]]
-## 🗂️[[Session Summaries/_Session Summaries|Session Summaries]]
-## [[_Chat Logs |🗂️Chat Logs]]
 
 ⬇️ Please try the Graph View and the icon at its top right. It is a zoomable visual map of the content and the connections between the project pages. 

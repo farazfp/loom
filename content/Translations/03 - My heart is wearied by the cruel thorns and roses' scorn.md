@@ -27,13 +27,13 @@ Your parting took that peace away,
 and left my heart unbound.  
 
 When your love grants my heart's plea,  
-By then I will be no more,  
-When you do heed my cry at last,  
+By then I will be no more;  
+When you do heed my cry at last  
 I'll be with God for sure.  
 
 When springtime wakes the tulips  
 From my earthly bed to grow,  
-O' new bloom! 
+O' new bloom!  
 Spare a thought for my heart,  
 And its pain and woe.  
 

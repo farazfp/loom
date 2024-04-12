@@ -35,10 +35,10 @@ To what they seek?
 Think when you lift your locks from your face,  
 no light beams?  
 *It does;*  
-Or that it does not give the heavens' light its gleams?  
+And that it does not give the heavens' light its gleams?  
 *It does.*  
 
-On Judgment Day, for love's blood spilled,  
+On Judgment Day, for love's blood spilt  
 there is no blame?  
 *There is;*  
 Or there’s for hearts like mine in love,  
@@ -53,7 +53,7 @@ betrayal can never hide?
 *It can.*  
 
 You think near your home,  
-my tears will not soak the earth?  
+bloody tears won’t soak the earth?  
 *They will;*  
 Sana’i’s weeping eyes 
 a sea of grief won’t birth?  

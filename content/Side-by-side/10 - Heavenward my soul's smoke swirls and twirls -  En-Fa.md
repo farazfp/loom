@@ -12,7 +12,7 @@ Poet: [[Rumi]]
 | You are my ally and my love, and my prosperity                   | دلبر و یار من تویی رونق کار من تویی    |
 | You are my garden, my spring’s charm; for you, my entity.        | باغ و بهار من تویی بهر تو بود بود من   |
 | You have taken away my sleep; my solace, you have been,          | خواب شبم ربوده‌ای مونس من تو بوده‌ای   |
-| You have shown me torment, and it is only you I win.             | درد توام نموده‌ای غیر تو نیست سود من   |
+| You have shown me torment, and you are all that I can win        | درد توام نموده‌ای غیر تو نیست سود من   |
 | My all! My life and world; My heavens' Venus, shining bright!    | جان من و جهان من زهره آسمان من         |
 | Your fire is my mark, in my heart like incense alight.           | آتش تو نشان من در دل همچو عود من       |
 | There was no body, I was soul; with you, up in the sky,          | جسم نبود و جان بدم؛ با تو بر آسمان بدم |

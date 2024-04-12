@@ -10,7 +10,6 @@ My soul's smoke swirls and twirls.
 Drop this spite  
 and don't let rivals smile as my pain unfurls.  
 
-
 Don't make more smoke,  
 Nor give more joy,  
 To the envious heart -   

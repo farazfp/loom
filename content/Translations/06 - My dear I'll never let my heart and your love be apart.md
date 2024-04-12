@@ -14,10 +14,10 @@ forever bound at heart.
 
 From time eternal,   
 your love and my soul have been entwined,   
-From loving you, in this life no salvation will I find.  
+From loving you, in this life no salvation I will find.  
 
 From all but you,  
-My heart and soul,  
+My heart and soul 
 I've cleansed away desire,  
 And like a censer full of flame,
 your love fills me with fire.  
@@ -25,7 +25,7 @@ your love fills me with fire.
 Over this world and after,  
 To your love my heart is bound  
 Upon this path toward you,   
-I cast my pride on the ground.  
+I throw my pride to the ground.  
 
 Since I have seen your smile,   
 Like pearls in laughter's bright array,  

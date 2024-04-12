@@ -28,7 +28,8 @@ This sacrifice I'd make.
 
 Though silence may befall me  
 When they ask me to recite,   
-In your praise on my zealous tongue,  
+In your praise
+On my zealous tongue,  
 The words always alight!  
 
 

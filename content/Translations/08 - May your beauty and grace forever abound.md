@@ -15,7 +15,7 @@
  May they flourish and grow  
  with every passing day    
  
- May cypresses -  
+ May cypresses   
  that in the meadow do grow,    
  Out of respect for your stature,  
  bow down low    
@@ -26,14 +26,17 @@
  To fascinate souls and to captivate hearts,    
  May your eyes excel in the magical arts.    
  
- May every heart that with your longing is found,    
- Be restless and yearning, and in turmoil bound    
+ May every heart  
+ that with your longing is found,    
+ Be restless and yearning,  
+ and in turmoil bound    
  
  May all the world's charmers to you yield their place,     
  As 'Noon' bows to 'Alef',  
  in reverent grace    
  
- May those who of your love are empty at heart,    
+ May those  
+ who - of your love - are empty at heart,  
  From your union's circle  
  stay ever apart.    
  

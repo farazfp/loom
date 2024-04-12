@@ -14,7 +14,7 @@ To her sun she raised me above.
 I am the life of heart and eye,  
 the very tears of mirth,  
 The worthy, favoured, chosen one— 
-My love affirmed my worth.  
+My love has seen my worth.  
 
 Direct your prayers to me,  
 as I am the Ka'bah, blessed;  

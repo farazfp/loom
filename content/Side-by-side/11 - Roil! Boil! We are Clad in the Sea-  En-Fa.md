@@ -5,7 +5,7 @@ Poet: [[Rumi]]
 | ------------------------------------------------------- | -------------------------------------- |
 | Roil! boil with love's tide - we are clad in the sea,   | بجوشید بجوشید که ما بحر شعاریم         |
 | Love alone is our cause, and our only decree.           | بجز عشق به جز عشق دگر کار نداریم       |
-| In this sacred land, love’s the seed that we sow,  ‘    | در این خاک در این خاک در این مزرعه پاک |
+| In this sacred land, love’s the seed that we sow,       | در این خاک در این خاک در این مزرعه پاک |
 | For love alone is what we are meant to grow.            | بجز مهر به جز عشق دگر تخم نکاریم       |
 | From that sovereign's grace, high and drunken we are,   | چه مستیم چه مستیم از آن شاه که هستیم   |
 | Come, come! Raise your hands, for our reign's not afar! | بیایید بیایید که تا دست برآریم         |
