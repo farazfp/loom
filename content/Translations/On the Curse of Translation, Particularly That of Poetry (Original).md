@@ -1,5 +1,7 @@
 ![[Past Poets Cry.png]]
 
+## *A meta-poetic caveat emptor, after Dick Davis:*  
+
 A translator's muse,  
 out of time,  
 by ghosts and shadows led,      

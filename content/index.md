@@ -4,7 +4,7 @@
 > [!info] What is this?  
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
 
-## 👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry ]] *: A meta-poetic caveat emptor, after Dick Davis.*   
+## 📄👁️  [[On the Curse of Translation, Particularly That of Poetry (Original)|<u>On the Curse of Translation, Particularly That of Poetry</u> ]]   
 
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]
