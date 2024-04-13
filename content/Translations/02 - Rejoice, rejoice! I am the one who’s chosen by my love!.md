@@ -1,13 +1,14 @@
 
 - Translated on: 2023-11-20
-- Side-by-side with media: [[02 - Rejoice, rejoice! I am the one who’s chosen by my love! - En-Fa]]
+- Side-by-side with media: [[02 - Rejoice, rejoice! I am the one who's chosen by my love! - En-Fa]]
 - Poet: [[Sayeh]]
 
 ![[002 - rejoice rejoice.png]]
 
 
 Rejoice, rejoice!  
-I am the one who’s chosen by my love!  
+I am the one  
+who’s chosen by my love!  
 I am her shadow now;  
 To her sun she raised me above.  
 

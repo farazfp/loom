@@ -7,7 +7,7 @@ Poet: [[Sayeh]]
 | Rejoice, rejoice! I am the one who’s chosen by my love!               | مژده بده، مژده بده، یار پسندید مرا    |
 | I am her shadow now; to her sun she raised me above.                  | سایه ی او گشتم و او برد به خورشید مرا |
 | I am the life of heart and eye, the very tears of mirth,              | جانِ دل و دیده منم، گریه ی خندیده منم |
-| The worthy, favoured, chosen one - My love has seen  my worth         | یارِ پسندیده منم، یار پسندید مرا      |
+| The worthy, favoured, chosen one - My love has seen my worth          | یارِ پسندیده منم، یار پسندید مرا      |
 | Direct your prayers to me, as I am the Ka'ba, blessed;                | کعبه منم، قبله منم، سوی من آرید نماز  |
 | That guiding idol bent down and on me her kiss impressed.             | کان صنمِ قبله نما خم شد و بوسید مرا   |
 | Her lovely visage lights my eyes, in joyous clarity,                  | پرتو دیدار خوشش تافته در دیده ی من    |
