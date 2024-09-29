@@ -19,7 +19,7 @@ Where bright stars are replete.
 Come back!  
 For your absence raises my silent, maddened cries,  
 And from the rocks of mountainscapes  
-their mournful echo flies.  
+their endless echo flies.  
 
 O’ flowing stream,  
 From close by this leafy shade  

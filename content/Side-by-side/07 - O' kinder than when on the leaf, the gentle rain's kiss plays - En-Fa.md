@@ -8,7 +8,7 @@ Poet: [[Shafi'i Kadekani]]
 | The mirror of your eye is where the dawn and ocean meet,         | آیینه ی نگاهت پیوند صبح و ساحل         |
 | Your rare smile is a dawn aglow, where bright stars are replete. | لبخند گاه گاهت صبح ستاره باران         |
 | Come back, for your absence raises my silent, maddened cries,    | بازآ که در هوایت خاموشی جنونم          |
-| and from the rocks of mountainscapes their mournful echo flies.  | فریاد ها برانگیخت از سنگ کوه ساران     |
+| and from the rocks of mountainscapes their ceaseless echo flies. | فریاد ها برانگیخت از سنگ کوه ساران     |
 | O flowing stream, from close by this leafy shade do not stray,   | ای جویبار جاری ! زین سایه برگ مگریز    |
 | For there are many who have let such chances slip away.          | کاین گونه فرصت از کف دادند بی شماران   |
 | You spoke of days when love had taken root, and I replied:       | گفتی : به روزگاران مهری نشسته گفتم     |
