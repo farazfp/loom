@@ -9,12 +9,12 @@ Poet: [[Rumi]]
 | For love alone is what we are meant to grow.            | بجز مهر به جز عشق دگر تخم نکاریم       |
 | From that sovereign's grace, high and drunken we are,   | چه مستیم چه مستیم از آن شاه که هستیم   |
 | Come, come! Raise your hands, for our reign's not afar! | بیایید بیایید که تا دست برآریم         |
-| No clue, what strange brew did we drink yesternight?    | چه دانیم چه دانیم که ما دوش چه خوردیم  |
+| what strange brew was it that we drank yesternight?     | چه دانیم چه دانیم که ما دوش چه خوردیم  |
 | It’s left us drunk and hungover in the daylight.        | که امروز همه روز خمیریم و خماریم       |
-| Ask not! Not to fathom our verity's state;              | مپرسید مپرسید ز احوال حقیقت            |
-| We venerate wine, not the cups that we sate.            | که ما باده پرستیم نه پیمانه شماریم     |
+| Ask not! Not to know of the truth in our state;         | مپرسید مپرسید ز احوال حقیقت            |
+| To us wine is what counts, not the cups that we slate.  | که ما باده پرستیم نه پیمانه شماریم     |
 | Can one who's not drunken with love's heady wine,       | شما مست نگشتید وزان باده نخوردید       |
-| Perceive the pursuit in which we intertwine?            | چه دانید چه دانید که ما در چه شکاریم   |
+| Ever know the pursuit in which we intertwine?           | چه دانید چه دانید که ما در چه شکاریم   |
 | We will not fall here, like so much straw and hay,      | نیفتیم بر این خاک ستان ما نه حصیریم    |
 | We’ll rise to the wheel: challengers who will stay.     | برآییم بر این چرخ که ما مرد حصاریم     |
 

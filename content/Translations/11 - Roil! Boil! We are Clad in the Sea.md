@@ -25,12 +25,12 @@ Translated on: 2024-01-20
  in the daylight.          
  
  Ask not!  
- Not to know of the truth of our state;              
+ Not to know of the truth in our state;              
  To us wine is what counts,  
- not the cups that we sate.            
+ not the cups that we slate.            
  
  Can one who's not drunken of love's heady wine,       
- Know of the pursuit in which we intertwine?            
+ Ever know the pursuit in which we intertwine?            
  
  We will not fall here,  
  like so much straw and hay,      
