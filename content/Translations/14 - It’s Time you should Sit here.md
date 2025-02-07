@@ -9,7 +9,7 @@ Translated on: 2024-11-20
  An incense that burns with no respite at all.           
  While trapped in the cage of its wings, it will stay,   
  The bird of the heavens will not find its way.          
- The harp, at the thought of your touch, starts to play; 
+ The harp, at the thought of your touch, starts to play;   
  What songs it will sing when you're near it someday.    
  A lifetime we've waited for dawn's gentle breeze,       
  To carry a message that sets hearts at ease.            

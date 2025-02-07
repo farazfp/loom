@@ -1,5 +1,5 @@
 Translation: [[13 - The Weathered Sculptor]]  
-Poet: [[Rumi]]  
+Poet: Nader Naderpour  
 
 | English                                            | Farsi                                  |
 | -------------------------------------------------- | -------------------------------------- |
