@@ -23,8 +23,8 @@ This profound connection with music, alongside his poetic genius, underscores Eb
 Sayeh's contribution to Persian poetry, marked by his unique blend of traditional form and modern sensibilities, remains influential in contemporary Iranian literature. His life and work, spanning Iran's major cultural and political upheavals, offer a window into the evolving landscape of Persian poetry in the 20th century.
 
 # Associated Poems
-[[02 - Rejoice, rejoice! I am the one who’s chosen by my love!]]
-[[14 - It’s Time you should Sit here]]
+[[02 - Rejoice, rejoice! I am the one who’s chosen by my love!]]   
+[[14 - It’s Time you should Sit here]]   
 
 # Notable Works or Contributions
 [List of notable works or contributions]
