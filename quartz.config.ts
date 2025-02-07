@@ -1,6 +1,11 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+/**
+ * Quartz 4.0 Configuration
+ *
+ * See https://quartz.jzhao.xyz/configuration for more information.
+ */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🧵 On a Loom of Code and Color",
@@ -12,7 +17,10 @@ const config: QuartzConfig = {
     baseUrl: "farazfp.github.io",
     ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
         header: "EB Garamond",
         body: "EB Garamond",
@@ -28,6 +36,7 @@ const config: QuartzConfig = {
           secondary: "#023047",
           tertiary: "#b4ccc8",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -38,6 +47,7 @@ const config: QuartzConfig = {
           secondary: "#FB8500",
           tertiary: "#E1D9BE",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -45,21 +55,20 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
         priority: ["filesystem", "frontmatter"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
-      Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
+      Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
