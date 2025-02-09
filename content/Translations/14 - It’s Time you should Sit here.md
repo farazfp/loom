@@ -14,7 +14,7 @@ Translated on: 2024-11-20
  A lifetime we've waited for dawn's gentle breeze,       
  To carry a message that sets hearts at ease.            
  Woe be to the ear that can hear the reed's song,        
- Yet misses the piper whose truth comes along.           
+ Yet misses the piper whose thoughts come along.           
  Pity the eye that does, by candlelight's glow,          
  See you reflected, yet knows not where you go.          
  You are a voice that soars, yet none ever hear,         

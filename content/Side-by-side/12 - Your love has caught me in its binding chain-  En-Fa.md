@@ -1,5 +1,5 @@
-Translation: [[11 - Roil! Boil! We are Clad in the Sea]]
-Poet: [[Rumi]]  
+Translation: [[12 - Your love has caught me in its binding chain]]
+Poet: Sa’di  
 
 | English Translation                             |               Persian Original |
 | :---------------------------------------------- | -----------------------------: |

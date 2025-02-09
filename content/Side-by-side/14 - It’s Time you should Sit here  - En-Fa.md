@@ -15,7 +15,7 @@ Poet: [[Sayeh]]
 | A lifetime we've waited for dawn's gentle breeze,       |        عمری ست که ما منتظر باد صباییم |
 | To carry a message that sets hearts at ease.            |       تا بو که چه پیغام دهد باد صبایی |
 | Woe be to the ear that can hear the reed's song,        | ای وای بر آن گوش که بس نغمه ی این نای |
-| Yet misses the piper whose truth comes along.           |      بشنید و نشد آگه از اندیشه ی نایی |
+| Yet misses the piper whose thoughts come along.         |      بشنید و نشد آگه از اندیشه ی نایی |
 | Pity the eye that does, by candlelight's glow,          |     افسوس بر آن چشم که با پرتو صد شمع |
 | See you reflected, yet knows not where you go.          |         در اینه ات دید و ندانست کجایی |
 | You are a voice that soars, yet none ever hear,         |         آواز بلندی تو و کس نشنودت باز |
