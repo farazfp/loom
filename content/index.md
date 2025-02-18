@@ -7,8 +7,6 @@
 ## [[On the Curse of Translation, Particularly That of Poetry (Original)|👁️ ]]  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry  ]]   
 ## [[On the Curse of Translation, Particularly That of Poetry (Original)|👁️ ]]  [[The Two Caves (Original)|The Two Caves]]
 
-
-[[The Two Caves (Original)]]
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]
 ## 🗂️[[_Poets|Poets]]  
