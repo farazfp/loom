@@ -1,11 +1,12 @@
 
 | ![[Woven Carpet Loom.png]] | <h1 align="right">On a Loom of Code and Colour</h1> |
 | -------------------------- | --------------------------------------------------- |
+|                            | <center>Faraz Forghan Parast - 2025</center>        |
 > [!info] What is this?  
 > An initiative with the University of Victoria [Electronic Textual Cultures Lab (ETCL)](https://etcl.uvic.ca) to explore the creative potentials of synergies between artificial intelligence and human expertise, Loom is focused on the realm of poetry translation and a year-long journey through a broad range of Persian ghazals.
 
 ## [[On the Curse of Translation, Particularly That of Poetry (Original)|👁️ ]]  [[On the Curse of Translation, Particularly That of Poetry (Original)|On the Curse of Translation, Particularly That of Poetry  ]]   
-## [[On the Curse of Translation, Particularly That of Poetry (Original)|👁️ ]]  [[The Two Caves (Original)|The Two Caves]]
+## [[On the Curse of Translation, Particularly That of Poetry (Original)|👁️ ]]  [[The Two Caves|The Two Caves]]
 
 ## 🗂️[[_Translations| Translations]]
 ## 🗂️[[_Side-by-side|Side by Side with Farsi]]
