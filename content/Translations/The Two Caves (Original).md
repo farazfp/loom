@@ -159,10 +159,10 @@ Their words describing shapes upon the wall,
 While through the stone, their language flows out free   
 Distilled to pure abstraction's alien call.   
 
-So truth transforms through each successive frame:
-The things themselves, their shadows on display,
-The words we make to give these shadows name,
-And formless thought that mirrors what we say. 
+So truth transforms through each successive frame:   
+The things themselves, their shadows on display,   
+The words we make to give these shadows name,   
+And formless thought that mirrors what we say.    
 
 These echoes know no truth and hold no lies,   
 They simply are statistics, nothing more,   
