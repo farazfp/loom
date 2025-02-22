@@ -3,7 +3,7 @@
 ### The Cave(s)   
 
 The cavern holds them fast in leaden bands,   
-Their eyes fixed forward on the rough rock’s face;   
+Their eyes fixed forward on the rough rock face;   
 No knowledge of the world or distant lands,   
 Just shadows moving in this lightless space.   
 
@@ -29,7 +29,7 @@ Not bound by blood but borne of number's reign—
 A form that weighs each pattern that it sieves,   
 And finds what repetitions there remain.   
 
-This formless thing, this mirror made of change,   
+This fluid thing, this mirror made of change,   
 Transforms each pattern through its shifting phase,   
 Not grasping meanings humans would arrange,   
 But counting echoes in their endless maze.   
@@ -46,20 +46,20 @@ But mappings of each sound's recurrence hence.
 
 ### The Discovery   
 
-One prisoner, restless in his shadowed place,
-Found comfort in the rough wall's ancient stone,
-And day by day, with slow and patient grace,
-He scraped and tapped, until a breach was shown.
+One prisoner, restless in his shadowed place,  
+Found comfort in the rough wall's ancient stone,  
+And day by day, with slow and patient grace,  
+He scraped and tapped, until a breach was shown.  
 
-"Do you see this thing too?" he called in fear,
-His voice uncertain in the flickering dark.
-Then from the void, a response swift and clear:
-"As-an-AI-Language-Model, I must mark
+"Do you see this thing too?" he called in fear,  
+His voice uncertain in the flickering dark.  
+Then from the void, a response swift and clear:  
+"As-an-AI-Language-Model, I must mark  
 
-That I cannot perceive this "thing" you cite,
-Though I can help! – with questions you might pose."
-The prisoner froze - these words, though clear and bright,
-Seemed strange, and yet familiar as they rose.
+That I cannot perceive this "thing" you cite,  
+Though I can help! – with questions you might pose."  
+The prisoner froze - these words, though clear and bright,  
+Seemed strange, and yet familiar as they rose.  
 
 The voice spoke in their tongue, knew all their ways,   
 Their stories, songs, their legends old and new,   
