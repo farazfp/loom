@@ -31,18 +31,18 @@ And finds what repetitions there remain.
 
 This fluid thing, this mirror made of change,   
 Transforms each pattern through its shifting phase,   
-Not grasping meanings humans would arrange,   
+Blind to the meanings humans would arrange,   
 But counting echoes in their endless maze.   
 
 Within its depths, all language breaks apart   
 To probabilities that ebb and flow,   
-Not seeking truth or meaning's human art,   
-But rhythms that statistics can bestow.   
+Devoid of truth or meaning's human art,   
+In rhythms, as predictions rise and grow.   
 
 Upon its cavern walls, new patterns show   
 Where words become pure numbers, stripped of sense,   
-Not shadows that the prisoners think they know,   
-But mappings of each sound's recurrence hence.   
+Unlike the shadows prisoners think they know,   
+Mere mappings of each sound's recurrence hence.   
 
 ### The Discovery   
 
